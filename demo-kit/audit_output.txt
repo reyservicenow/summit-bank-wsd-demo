@@ -1,0 +1,15 @@
+
+summit_tower_10.dxf
+  Spaces: 23  |  Clean: 23  |  Score: 100%  |  READY
+
+summit_tower_10_r12.dxf
+  Spaces: 0  |  Clean: 0  |  Score: 0%  |  NOT READY
+   - DXF version AC1009 is older than R2000; re-save as R2000 or newer
+   - Drawing units ($INSUNITS) not set; set units (e.g. feet) before import
+
+summit_tower_12_messy.dxf
+  Spaces: 4  |  Clean: 1  |  Score: 25%  |  NOT READY
+   - Outline #2 at (12,0): polyline is not closed
+   - Outline #3 at (24,0): no space label inside
+   - Outline #4 at (36,0): label '12-D99' not found in TRIRIGA export
+   - Label '12-D04' is on layer '0-MISC', expected A-Area-Iden

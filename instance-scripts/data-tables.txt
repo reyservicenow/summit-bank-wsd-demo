@@ -1,0 +1,23 @@
+# Demo DATA records that update sets do NOT capture.
+# Format: file_name|table|encoded query
+# Exported in unload (XML) format, which keeps sys_ids so references between files still line up.
+# Import in this order (top to bottom) with right-click list header > Import XML.
+01_site|sn_wsd_core_site|wsd_source=TRIRIGA^sys_class_name=sn_wsd_core_site
+02_campus|sn_wsd_core_campus|wsd_source=TRIRIGA^sys_class_name=sn_wsd_core_campus
+03_building|sn_wsd_core_building|wsd_source=TRIRIGA^sys_class_name=sn_wsd_core_building
+04_floor|sn_wsd_core_floor|wsd_source=TRIRIGA^sys_class_name=sn_wsd_core_floor
+05_space|sn_wsd_core_space|wsd_source=TRIRIGA^sys_class_name=sn_wsd_core_space
+06_department|cmn_department|nameINRetail Banking,Wealth Management,Technology,Risk & Compliance
+07_neighborhood|sn_wsd_core_neighborhood|nameINRetail Banking,Wealth Management,Technology,Risk & Compliance
+08_neighborhood_space|sn_wsd_core_neighborhood_m2m_space|space.wsd_source=TRIRIGA
+09_workplace_profile|sn_wsd_core_workplace_profile|workplace_location.wsd_source=TRIRIGA
+10_reservation|sn_wsd_rsv_reservation|workplace_location.wsd_source=TRIRIGA
+11_scenario|sn_wsd_spcmgmt_scenario_plan|nameSTARTSWITHSummit Tower restack
+12_map_campus|sn_map_core_campus|name=Summit Bank Charlotte Campus
+13_map_building|sn_map_core_building|campus.name=Summit Bank Charlotte Campus
+14_map_floor|sn_map_core_floor|building.campus.name=Summit Bank Charlotte Campus
+15_map_autocad_source|sn_map_core_autocad_source|campus.name=Summit Bank Charlotte Campus
+16_map_autocad_layer|sn_map_core_autocad_source_layer|autocad_source.campus.name=Summit Bank Charlotte Campus
+17_map_autocad_text|sn_map_core_autocad_source_text|autocad_source.campus.name=Summit Bank Charlotte Campus
+18_map_place|sn_map_core_place|floor.building.campus.name=Summit Bank Charlotte Campus
+19_map_view_content|sn_map_core_view_content|campus.name=Summit Bank Charlotte Campus
