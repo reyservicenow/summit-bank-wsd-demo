@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-29 17:51:03">
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>62</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-BRK">38483c58c35c171014d3b91ed4013175</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431124,35.22709304180074],[-80.84305210000001,35.22709304180074],[-80.84305210000001,35.22712588005788],[-80.8431124,35.22712588005788],[-80.8431124,35.22709304180074]]]}</geometry>
+<name>10-BRK</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>0b16c118c390571014d3b91ed40131b5</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-BRK</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>36</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D01">84483858c35c171014d3b91ed40131d5</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.84326650000001,35.22702736524658],[-80.8432464,35.22702736524658],[-80.8432464,35.227043784390105],[-80.84326650000001,35.227043784390105],[-80.84326650000001,35.22702736524658]]]}</geometry>
+<name>10-D01</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>4f16c118c390571014d3b91ed4013151</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D01</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>38</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D02">14487858c35c171014d3b91ed4013107</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8432397,35.22702736524658],[-80.84321960000001,35.22702736524658],[-80.84321960000001,35.227043784390105],[-80.8432397,35.227043784390105],[-80.8432397,35.22702736524658]]]}</geometry>
+<name>10-D02</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>8316c118c390571014d3b91ed4013157</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D02</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>3A</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D03">54487858c35c171014d3b91ed401310f</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8432129,35.22702736524658],[-80.8431928,35.22702736524658],[-80.8431928,35.227043784390105],[-80.8432129,35.227043784390105],[-80.8432129,35.22702736524658]]]}</geometry>
+<name>10-D03</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>0716c118c390571014d3b91ed4013159</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D03</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>3C</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D04">58487858c35c171014d3b91ed4013155</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431861,35.22702736524658],[-80.84316600000001,35.22702736524658],[-80.84316600000001,35.227043784390105],[-80.8431861,35.227043784390105],[-80.8431861,35.22702736524658]]]}</geometry>
+<name>10-D04</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>8716c118c390571014d3b91ed401315b</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D04</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>3E</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D05">14487858c35c171014d3b91ed40131a8</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431593,35.22702736524658],[-80.8431392,35.22702736524658],[-80.8431392,35.227043784390105],[-80.8431593,35.227043784390105],[-80.8431593,35.22702736524658]]]}</geometry>
+<name>10-D05</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>0b16c118c390571014d3b91ed401315d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D05</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>40</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D06">54487858c35c171014d3b91ed40131b0</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431325,35.22702736524658],[-80.8431124,35.22702736524658],[-80.8431124,35.227043784390105],[-80.8431325,35.227043784390105],[-80.8431325,35.22702736524658]]]}</geometry>
+<name>10-D06</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>8b16c118c390571014d3b91ed401315f</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D06</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>42</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D07">14487858c35c171014d3b91ed40131d1</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431057,35.22702736524658],[-80.8430856,35.22702736524658],[-80.8430856,35.227043784390105],[-80.8431057,35.227043784390105],[-80.8431057,35.22702736524658]]]}</geometry>
+<name>10-D07</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>0f16c118c390571014d3b91ed4013161</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D07</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>44</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D08">98487858c35c171014d3b91ed40131fe</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.84307890000001,35.22702736524658],[-80.8430588,35.22702736524658],[-80.8430588,35.227043784390105],[-80.84307890000001,35.227043784390105],[-80.84307890000001,35.22702736524658]]]}</geometry>
+<name>10-D08</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>8f16c118c390571014d3b91ed4013163</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D08</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>46</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D09">d848b858c35c171014d3b91ed4013106</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.84326650000001,35.2270602035303],[-80.8432464,35.2270602035303],[-80.8432464,35.227076622667184],[-80.84326650000001,35.227076622667184],[-80.84326650000001,35.2270602035303]]]}</geometry>
+<name>10-D09</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>8f16c118c390571014d3b91ed401317e</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D09</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>48</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D10">dc48b858c35c171014d3b91ed401314c</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8432397,35.2270602035303],[-80.84321960000001,35.2270602035303],[-80.84321960000001,35.227076622667184],[-80.8432397,35.227076622667184],[-80.8432397,35.2270602035303]]]}</geometry>
+<name>10-D10</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>0316c118c390571014d3b91ed4013181</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D10</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>4A</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D11">1c48b858c35c171014d3b91ed4013186</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8432129,35.2270602035303],[-80.8431928,35.2270602035303],[-80.8431928,35.227076622667184],[-80.8432129,35.227076622667184],[-80.8432129,35.2270602035303]]]}</geometry>
+<name>10-D11</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>8316c118c390571014d3b91ed4013183</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D11</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>4C</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D12">6c48b858c35c171014d3b91ed401318e</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431861,35.2270602035303],[-80.84316600000001,35.2270602035303],[-80.84316600000001,35.227076622667184],[-80.8431861,35.227076622667184],[-80.8431861,35.2270602035303]]]}</geometry>
+<name>10-D12</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>0716c118c390571014d3b91ed4013185</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D12</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>4E</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D13">ec48b858c35c171014d3b91ed40131ed</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431593,35.2270602035303],[-80.8431392,35.2270602035303],[-80.8431392,35.227076622667184],[-80.8431593,35.227076622667184],[-80.8431593,35.2270602035303]]]}</geometry>
+<name>10-D13</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>8716c118c390571014d3b91ed4013187</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D13</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>50</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D14">2048b858c35c171014d3b91ed40131f6</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431325,35.2270602035303],[-80.8431124,35.2270602035303],[-80.8431124,35.227076622667184],[-80.8431325,35.227076622667184],[-80.8431325,35.2270602035303]]]}</geometry>
+<name>10-D14</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>0b16c118c390571014d3b91ed4013189</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D14</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>52</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D15">e448f858c35c171014d3b91ed401317a</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431057,35.2270602035303],[-80.8430856,35.2270602035303],[-80.8430856,35.227076622667184],[-80.8431057,35.227076622667184],[-80.8431057,35.2270602035303]]]}</geometry>
+<name>10-D15</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>0b16c118c390571014d3b91ed40131a4</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D15</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>54</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-D16">e848f858c35c171014d3b91ed40131c0</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.84307890000001,35.2270602035303],[-80.8430588,35.2270602035303],[-80.8430588,35.227076622667184],[-80.84307890000001,35.227076622667184],[-80.84307890000001,35.2270602035303]]]}</geometry>
+<name>10-D16</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>8b16c118c390571014d3b91ed40131a6</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-D16</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>5A</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-FOCUS1">6c483c58c35c171014d3b91ed4013148</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431459,35.22709304180074],[-80.84311910000001,35.22709304180074],[-80.84311910000001,35.22712588005788],[-80.8431459,35.22712588005788],[-80.8431459,35.22709304180074]]]}</geometry>
+<name>10-FOCUS1</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>0316c118c390571014d3b91ed40131ad</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-FOCUS1</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>56</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-MR1 Blue Ridge">2c48f858c35c171014d3b91ed40131c8</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.84326650000001,35.22709304180074],[-80.8432062,35.22709304180074],[-80.8432062,35.22712588005788],[-80.84326650000001,35.22712588005788],[-80.84326650000001,35.22709304180074]]]}</geometry>
+<name>10-MR1 Blue Ridge</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>0f16c118c390571014d3b91ed40131a8</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-MR1 Blue Ridge</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>58</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-MR2 Piedmont">20483c58c35c171014d3b91ed401310f</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431995,35.22709304180074],[-80.84315260000001,35.22709304180074],[-80.84315260000001,35.22712588005788],[-80.8431995,35.22712588005788],[-80.8431995,35.22709304180074]]]}</geometry>
+<name>10-MR2 Piedmont</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>8f16c118c390571014d3b91ed40131aa</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-MR2 Piedmont</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>5C</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-OFF1">ac483c58c35c171014d3b91ed4013150</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8430387,35.22702736524658],[-80.8429985,35.22702736524658],[-80.8429985,35.227054730483935],[-80.8430387,35.227054730483935],[-80.8430387,35.22702736524658]]]}</geometry>
+<name>10-OFF1</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>8316c118c390571014d3b91ed40131af</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-OFF1</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>5E</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-OFF2">a4483c58c35c171014d3b91ed4013165</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8430387,35.2270602035303],[-80.8429985,35.2270602035303],[-80.8429985,35.227087568756595],[-80.8430387,35.227087568756595],[-80.8430387,35.2270602035303]]]}</geometry>
+<name>10-OFF2</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>0716c118c390571014d3b91ed40131b1</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-OFF2</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>60</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="10-OFF3">e4483c58c35c171014d3b91ed401316d</cmn_location>
+<description/>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8430387,35.22709304180074],[-80.8429985,35.22709304180074],[-80.8429985,35.22712040701595],[-80.8430387,35.22712040701595],[-80.8430387,35.22709304180074]]]}</geometry>
+<name>10-OFF3</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:23:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>8716c118c390571014d3b91ed40131b3</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<title>10-OFF3</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>62</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-BRK">1548fc58c35c171014d3b91ed4013155</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431124,35.22709304180074],[-80.84305210000001,35.22709304180074],[-80.84305210000001,35.22712588005788],[-80.8431124,35.22712588005788],[-80.8431124,35.22709304180074]]]}</geometry>
+<name>11-BRK</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>5e87811cc390571014d3b91ed40131b5</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-BRK</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>36</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D01">34483c58c35c171014d3b91ed40131fd</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.84326650000001,35.22702736524658],[-80.8432464,35.22702736524658],[-80.8432464,35.227043784390105],[-80.84326650000001,35.227043784390105],[-80.84326650000001,35.22702736524658]]]}</geometry>
+<name>11-D01</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>ce87811cc390571014d3b91ed401313b</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D01</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>38</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D02">38487c58c35c171014d3b91ed4013111</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8432397,35.22702736524658],[-80.84321960000001,35.22702736524658],[-80.84321960000001,35.227043784390105],[-80.8432397,35.227043784390105],[-80.8432397,35.22702736524658]]]}</geometry>
+<name>11-D02</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>4a87811cc390571014d3b91ed401313e</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D02</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>3A</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D03">78487c58c35c171014d3b91ed4013119</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8432129,35.22702736524658],[-80.8431928,35.22702736524658],[-80.8431928,35.227043784390105],[-80.8432129,35.227043784390105],[-80.8432129,35.22702736524658]]]}</geometry>
+<name>11-D03</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>ca87811cc390571014d3b91ed4013140</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D03</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>3C</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D04">41487c58c35c171014d3b91ed401312e</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431861,35.22702736524658],[-80.84316600000001,35.22702736524658],[-80.84316600000001,35.227043784390105],[-80.8431861,35.227043784390105],[-80.8431861,35.22702736524658]]]}</geometry>
+<name>11-D04</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>5e87811cc390571014d3b91ed4013142</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D04</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>3E</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D05">49487c58c35c171014d3b91ed4013142</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431593,35.22702736524658],[-80.8431392,35.22702736524658],[-80.8431392,35.227043784390105],[-80.8431593,35.227043784390105],[-80.8431593,35.22702736524658]]]}</geometry>
+<name>11-D05</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>de87811cc390571014d3b91ed4013144</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:45</sys_updated_on>
+<title>11-D05</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>40</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D06">89487c58c35c171014d3b91ed401314a</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431325,35.22702736524658],[-80.8431124,35.22702736524658],[-80.8431124,35.227043784390105],[-80.8431325,35.227043784390105],[-80.8431325,35.22702736524658]]]}</geometry>
+<name>11-D06</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>5287811cc390571014d3b91ed4013147</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D06</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>42</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D07">c9487c58c35c171014d3b91ed4013152</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431057,35.22702736524658],[-80.8430856,35.22702736524658],[-80.8430856,35.227043784390105],[-80.8431057,35.227043784390105],[-80.8431057,35.22702736524658]]]}</geometry>
+<name>11-D07</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>d287811cc390571014d3b91ed4013149</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D07</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>44</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D08">89487c58c35c171014d3b91ed4013173</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.84307890000001,35.22702736524658],[-80.8430588,35.22702736524658],[-80.8430588,35.227043784390105],[-80.84307890000001,35.227043784390105],[-80.84307890000001,35.22702736524658]]]}</geometry>
+<name>11-D08</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>5687811cc390571014d3b91ed401314b</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D08</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>46</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D09">c9487c58c35c171014d3b91ed401317b</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.84326650000001,35.2270602035303],[-80.8432464,35.2270602035303],[-80.8432464,35.227076622667184],[-80.84326650000001,35.227076622667184],[-80.84326650000001,35.2270602035303]]]}</geometry>
+<name>11-D09</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>d687811cc390571014d3b91ed401314d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D09</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>48</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D10">41487c58c35c171014d3b91ed40131a9</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8432397,35.2270602035303],[-80.84321960000001,35.2270602035303],[-80.84321960000001,35.227076622667184],[-80.8432397,35.227076622667184],[-80.8432397,35.2270602035303]]]}</geometry>
+<name>11-D10</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>5a87811cc390571014d3b91ed401314f</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D10</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>4A</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D11">01487c58c35c171014d3b91ed40131ca</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8432129,35.2270602035303],[-80.8431928,35.2270602035303],[-80.8431928,35.227076622667184],[-80.8432129,35.227076622667184],[-80.8432129,35.2270602035303]]]}</geometry>
+<name>11-D11</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>da87811cc390571014d3b91ed4013151</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:45</sys_updated_on>
+<title>11-D11</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>4C</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D12">41487c58c35c171014d3b91ed40131d2</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431861,35.2270602035303],[-80.84316600000001,35.2270602035303],[-80.84316600000001,35.227076622667184],[-80.8431861,35.227076622667184],[-80.8431861,35.2270602035303]]]}</geometry>
+<name>11-D12</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>5e87811cc390571014d3b91ed4013153</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D12</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>4E</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D13">0d48bc58c35c171014d3b91ed4013124</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431593,35.2270602035303],[-80.8431392,35.2270602035303],[-80.8431392,35.227076622667184],[-80.8431593,35.227076622667184],[-80.8431593,35.2270602035303]]]}</geometry>
+<name>11-D13</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>de87811cc390571014d3b91ed4013155</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:45</sys_updated_on>
+<title>11-D13</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>50</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D14">8148bc58c35c171014d3b91ed4013152</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431325,35.2270602035303],[-80.8431124,35.2270602035303],[-80.8431124,35.227076622667184],[-80.8431325,35.227076622667184],[-80.8431325,35.2270602035303]]]}</geometry>
+<name>11-D14</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>5287811cc390571014d3b91ed4013158</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D14</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>52</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D15">d148bc58c35c171014d3b91ed401315a</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431057,35.2270602035303],[-80.8430856,35.2270602035303],[-80.8430856,35.227076622667184],[-80.8431057,35.227076622667184],[-80.8431057,35.2270602035303]]]}</geometry>
+<name>11-D15</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>d287811cc390571014d3b91ed401315a</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D15</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>54</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-D16">1148bc58c35c171014d3b91ed4013194</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.84307890000001,35.2270602035303],[-80.8430588,35.2270602035303],[-80.8430588,35.227076622667184],[-80.84307890000001,35.227076622667184],[-80.84307890000001,35.2270602035303]]]}</geometry>
+<name>11-D16</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>9a87811cc390571014d3b91ed4013181</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-D16</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>5A</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-FOCUS1">9548bc58c35c171014d3b91ed40131ea</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431459,35.22709304180074],[-80.84311910000001,35.22709304180074],[-80.84311910000001,35.22712588005788],[-80.8431459,35.22712588005788],[-80.8431459,35.22709304180074]]]}</geometry>
+<name>11-FOCUS1</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>1287811cc390571014d3b91ed4013188</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-FOCUS1</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>56</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-MR1 Blue Ridge">5d48bc58c35c171014d3b91ed40131cd</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.84326650000001,35.22709304180074],[-80.8432062,35.22709304180074],[-80.8432062,35.22712588005788],[-80.84326650000001,35.22712588005788],[-80.84326650000001,35.22709304180074]]]}</geometry>
+<name>11-MR1 Blue Ridge</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>1e87811cc390571014d3b91ed4013183</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-MR1 Blue Ridge</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>58</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-MR2 Piedmont">9d48bc58c35c171014d3b91ed40131d5</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8431995,35.22709304180074],[-80.84315260000001,35.22709304180074],[-80.84315260000001,35.22712588005788],[-80.8431995,35.22712588005788],[-80.8431995,35.22709304180074]]]}</geometry>
+<name>11-MR2 Piedmont</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>9e87811cc390571014d3b91ed4013185</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-MR2 Piedmont</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>5C</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-OFF1">9d48bc58c35c171014d3b91ed40131fe</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8430387,35.22702736524658],[-80.8429985,35.22702736524658],[-80.8429985,35.227054730483935],[-80.8430387,35.227054730483935],[-80.8430387,35.22702736524658]]]}</geometry>
+<name>11-OFF1</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>9287811cc390571014d3b91ed401318a</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-OFF1</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>5E</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-OFF2">dd48fc58c35c171014d3b91ed4013106</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8430387,35.2270602035303],[-80.8429985,35.2270602035303],[-80.8429985,35.227087568756595],[-80.8430387,35.227087568756595],[-80.8430387,35.2270602035303]]]}</geometry>
+<name>11-OFF2</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>1687811cc390571014d3b91ed401318c</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:44</sys_updated_on>
+<title>11-OFF2</title>
+</sn_map_core_place>
+<sn_map_core_place action="INSERT_OR_UPDATE">
+<active>true</active>
+<autocad_entity_handle>60</autocad_entity_handle>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="11-OFF3">d148fc58c35c171014d3b91ed401314d</cmn_location>
+<description/>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8430387,35.22709304180074],[-80.8429985,35.22709304180074],[-80.8429985,35.22712040701595],[-80.8430387,35.22712040701595],[-80.8430387,35.22709304180074]]]}</geometry>
+<name>11-OFF3</name>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</source>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:30:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>da87811cc390571014d3b91ed40131b3</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:30:45</sys_updated_on>
+<title>11-OFF3</title>
+</sn_map_core_place>
+</unload>

@@ -1,0 +1,3652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-29 17:51:04">
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value="Elevator">fd16d2f5fc133010fa9bb9a50d7fd70c</connector_type>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Elevator">7f2c4273d4533010fa9b51c41fd67b2e</marker_icon>
+<max_zoom>23</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e1b60558c390571014d3b91ed4013157</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>true</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Campus">ae7cf144c9e20110fa9ba6441180c8e3</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>29b60558c390571014d3b91ed4013154</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>10</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e5074198c390571014d3b91ed40131a0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value="Escalator">bff596b5fc133010fa9bb9a50d7fd7f5</connector_type>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Escalator">401c4273d4533010fa9b51c41fd67b2b</marker_icon>
+<max_zoom>23</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e9074198c390571014d3b91ed40131a1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E8EAEA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Information">349b4e33d4533010fa9b51c41fd67bad</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value="Information/Miscellaneous">56c54657ed300110fa9bb35d352f30e0</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#808687</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>ed07c198c390571014d3b91ed401316b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value="Stairs">8dd5deb5fc133010fa9bb9a50d7fd7b0</connector_type>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Stairs">14ccca73d4533010fa9b51c41fd67b38</marker_icon>
+<max_zoom>23</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>65074198c390571014d3b91ed40131a2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value="Escalator">bff596b5fc133010fa9bb9a50d7fd7f5</connector_type>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Escalator">401c4273d4533010fa9b51c41fd67b2b</marker_icon>
+<max_zoom>23</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>6db60558c390571014d3b91ed4013157</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#C1C5CD</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Inaccessible ">dcf0e46f4796011064062782846d43e5</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#C1C5CD</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a5b64958c390571014d3b91ed40131cc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value="Summit Tower">9cf44154c390571014d3b91ed4013184</building>
+<building_or_campus>true</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Building">696cb544c9e20110fa9ba6441180c860</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>16</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:55</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>ed074198c390571014d3b91ed401319f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:55</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value="Summit Tower">9cf44154c390571014d3b91ed4013184</building>
+<building_or_campus>true</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Building">696cb544c9e20110fa9ba6441180c860</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>16</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>61b60558c390571014d3b91ed4013156</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E8EAEA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Information">349b4e33d4533010fa9b51c41fd67bad</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value="Information/Miscellaneous">56c54657ed300110fa9bb35d352f30e0</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#808687</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>29b64958c390571014d3b91ed40131ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#EDEEF8</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Inactive_Building_Background">6e8e65d54726011064062782846d43f7</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>3</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>21b64958c390571014d3b91ed40131cd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value="Floor 11">99670dd8c390571014d3b91ed4013128</floor>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>10</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:35:38</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>6ac80554c390571014d3b91ed40131bd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:35:38</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#EDEEF8</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Inactive_Building_Background">6e8e65d54726011064062782846d43f7</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>3</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2507c198c390571014d3b91ed4013152</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>true</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Campus">ae7cf144c9e20110fa9ba6441180c8e3</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:55</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e5074198c390571014d3b91ed401319f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:55</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value="Stairs">8dd5deb5fc133010fa9bb9a50d7fd7b0</connector_type>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Stairs">14ccca73d4533010fa9b51c41fd67b38</marker_icon>
+<max_zoom>23</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e5b60558c390571014d3b91ed4013158</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value="Elevator">fd16d2f5fc133010fa9bb9a50d7fd70c</connector_type>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Elevator">7f2c4273d4533010fa9b51c41fd67b2e</marker_icon>
+<max_zoom>23</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>61074198c390571014d3b91ed40131a1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#C1C5CD</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Inaccessible ">dcf0e46f4796011064062782846d43e5</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#C1C5CD</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:55</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a907c198c390571014d3b91ed4013151</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:55</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing>0</default_bearing>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch>0</default_pitch>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value="Floor 10">dcf44154c390571014d3b91ed4013185</floor>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>10</min_zoom>
+<order>0</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>69b60558c390571014d3b91ed4013156</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:35:38</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#D9F4F9</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Entrance - exit">73738975191a0110fa9b52ddfa38acb7</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>1</order>
+<place display_value=""/>
+<place_type display_value="Entrance/Exit">73a109f1191a0110fa9b52ddfa38ac74</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#51A5B4</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>6107c198c390571014d3b91ed401316a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#D9F4F9</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Entrance - exit">73738975191a0110fa9b52ddfa38acb7</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>1</order>
+<place display_value=""/>
+<place_type display_value="Entrance/Exit">73a109f1191a0110fa9b52ddfa38ac74</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#51A5B4</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a9b64958c390571014d3b91ed40131ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E4E6EA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Meeting room">da5eba29052d0110fa9bb3102e5cf504</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>2</order>
+<place display_value=""/>
+<place_type display_value="Meeting room">2a9470600d273010f877d49b5a2047a1</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>21b64958c390571014d3b91ed40131d5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E4E6EA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Meeting room">da5eba29052d0110fa9bb3102e5cf504</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>2</order>
+<place display_value=""/>
+<place_type display_value="Meeting room">2a9470600d273010f877d49b5a2047a1</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2107c918c390571014d3b91ed4013132</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#F7DFE7</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Lobby - Reception">c55b9d2519560110fa9b52ddfa38ac88</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>3</order>
+<place display_value=""/>
+<place_type display_value="Lobby/Reception">329470600d273010f877d49b5a2047ac</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#AF647D</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2d07c918c390571014d3b91ed4013130</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#F7DFE7</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Lobby - Reception">c55b9d2519560110fa9b52ddfa38ac88</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>3</order>
+<place display_value=""/>
+<place_type display_value="Lobby/Reception">329470600d273010f877d49b5a2047ac</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#AF647D</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2db64958c390571014d3b91ed40131d3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#F7DFE7</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Library">82ecd5a519560110fa9b52ddfa38ac55</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>4</order>
+<place display_value=""/>
+<place_type display_value="Library">ae9470600d273010f877d49b5a2047a5</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#AF647D</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a107c918c390571014d3b91ed4013130</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#F7DFE7</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Library">82ecd5a519560110fa9b52ddfa38ac55</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>4</order>
+<place display_value=""/>
+<place_type display_value="Library">ae9470600d273010f877d49b5a2047a5</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#AF647D</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a1b64958c390571014d3b91ed40131d3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E4E6E4</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Office">340c956519560110fa9b52ddfa38ac3d</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>5</order>
+<place display_value=""/>
+<place_type display_value="Office">d6c54657ed300110fa9bb35d352f30e2</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2db64958c390571014d3b91ed40131ef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E4E6E4</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Office">340c956519560110fa9b52ddfa38ac3d</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>5</order>
+<place display_value=""/>
+<place_type display_value="Office">d6c54657ed300110fa9bb35d352f30e2</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>ad07c918c390571014d3b91ed4013133</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#B0B5BF</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Phone room - pod">fe548975191a0110fa9b52ddfa38ac62</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>6</order>
+<place display_value=""/>
+<place_type display_value="Phone room">9dc7216d19560110fa9b52ddfa38ac95</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a107c918c390571014d3b91ed4013135</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#B0B5BF</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Phone room - pod">fe548975191a0110fa9b52ddfa38ac62</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>6</order>
+<place display_value=""/>
+<place_type display_value="Phone room">9dc7216d19560110fa9b52ddfa38ac95</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>21b64958c390571014d3b91ed40131f1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E8EAEA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Printer">bc7b4e33d4533010fa9b51c41fd67ba8</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>7</order>
+<place display_value=""/>
+<place_type display_value="Printer">56c54657ed300110fa9bb35d352f30e3</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#808687</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a9b64958c390571014d3b91ed40131f1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E8EAEA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Printer">bc7b4e33d4533010fa9b51c41fd67ba8</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>7</order>
+<place display_value=""/>
+<place_type display_value="Printer">56c54657ed300110fa9bb35d352f30e3</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#808687</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2d07c918c390571014d3b91ed4013135</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E8EAEA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Computer room">207dd5a519560110fa9b52ddfa38acea</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>8</order>
+<place display_value=""/>
+<place_type display_value="Computer room">eebb2dad19560110fa9b52ddfa38ac22</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#808687</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2db64958c390571014d3b91ed40131e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E8EAEA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Computer room">207dd5a519560110fa9b52ddfa38acea</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>8</order>
+<place display_value=""/>
+<place_type display_value="Computer room">eebb2dad19560110fa9b52ddfa38ac22</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#808687</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e5074198c390571014d3b91ed40131a8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#B0B5BF</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Desk">735e1cd4ed018110fa9bb35d352f30f4</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>9</order>
+<place display_value=""/>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#A0A4AA</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e507c198c390571014d3b91ed4013169</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#B0B5BF</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Desk">735e1cd4ed018110fa9bb35d352f30f4</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>9</order>
+<place display_value=""/>
+<place_type display_value="Desks">6348ad2d19560110fa9b52ddfa38ace7</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#A0A4AA</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>21b64958c390571014d3b91ed40131ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFF1D4</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Cafeteria">26fa992519560110fa9b52ddfa38ac70</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>10</order>
+<place display_value=""/>
+<place_type display_value="Cafeteria">aa9470600d273010f877d49b5a2047a7</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C89B3F</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>29b64958c390571014d3b91ed40131e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFF1D4</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Cafeteria">26fa992519560110fa9b52ddfa38ac70</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>10</order>
+<place display_value=""/>
+<place_type display_value="Cafeteria">aa9470600d273010f877d49b5a2047a7</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C89B3F</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e1074198c390571014d3b91ed40131a7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFF1D4</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Coffee">4b4cc273d4533010fa9b51c41fd67bcf</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>11</order>
+<place display_value=""/>
+<place_type display_value="Coffee">2afa6ded19560110fa9b52ddfa38acf2</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C89B3F</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a1b64958c390571014d3b91ed40131e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFF1D4</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Coffee">4b4cc273d4533010fa9b51c41fd67bcf</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>11</order>
+<place display_value=""/>
+<place_type display_value="Coffee">2afa6ded19560110fa9b52ddfa38acf2</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C89B3F</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>6d074198c390571014d3b91ed40131a7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#EFDEFA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Men's restroom">f3f5196119560110fa9b52ddfa38acfc</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>12</order>
+<place display_value=""/>
+<place_type display_value="Men's restroom">a29470600d273010f877d49b5a2047a4</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#9460B7</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a9b64958c390571014d3b91ed40131d5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#EFDEFA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Men's restroom">f3f5196119560110fa9b52ddfa38acfc</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>12</order>
+<place display_value=""/>
+<place_type display_value="Men's restroom">a29470600d273010f877d49b5a2047a4</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#9460B7</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a907c918c390571014d3b91ed4013132</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#EFDEFA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Restrooms">1951a018ed018110fa9bb35d352f30da</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>13</order>
+<place display_value=""/>
+<place_type display_value="Men/Women restroom">be9470600d273010f877d49b5a2047ac</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#9460B7</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>25b64958c390571014d3b91ed40131d6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#EFDEFA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Restrooms">1951a018ed018110fa9bb35d352f30da</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>13</order>
+<place display_value=""/>
+<place_type display_value="Men/Women restroom">be9470600d273010f877d49b5a2047ac</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#9460B7</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2507c918c390571014d3b91ed4013133</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#EFDEFA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Women's restroom">9fa6d96119560110fa9b52ddfa38ac6a</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>14</order>
+<place display_value=""/>
+<place_type display_value="Women's restroom">229470600d273010f877d49b5a2047a5</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#9460B7</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>6107c198c390571014d3b91ed4013177</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#EFDEFA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Women's restroom">9fa6d96119560110fa9b52ddfa38ac6a</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>14</order>
+<place display_value=""/>
+<place_type display_value="Women's restroom">229470600d273010f877d49b5a2047a5</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#9460B7</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a9b64958c390571014d3b91ed40131f4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFF1D4</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Pantry">1b71e778d5450110fa9b617a875e8413</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>15</order>
+<place display_value=""/>
+<place_type display_value="Pantry">e898ad6d19560110fa9b52ddfa38ac90</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C89B3F</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a5b64958c390571014d3b91ed40131f0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFF1D4</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Pantry">1b71e778d5450110fa9b617a875e8413</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>15</order>
+<place display_value=""/>
+<place_type display_value="Pantry">e898ad6d19560110fa9b52ddfa38ac90</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C89B3F</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2907c918c390571014d3b91ed4013134</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFE2DC</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Sanitization station">32eddda519560110fa9b52ddfa38ac8c</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>16</order>
+<place display_value=""/>
+<place_type display_value="Sanitization station">c9292d6d19560110fa9b52ddfa38ac8b</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C86E59</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>6d07c198c390571014d3b91ed4013175</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFE2DC</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Sanitization station">32eddda519560110fa9b52ddfa38ac8c</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>16</order>
+<place display_value=""/>
+<place_type display_value="Sanitization station">c9292d6d19560110fa9b52ddfa38ac8b</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C86E59</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a5b64958c390571014d3b91ed40131f3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#F4E9DD</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Yoga - Meditation room">589485b5191a0110fa9b52ddfa38ac0a</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>17</order>
+<place display_value=""/>
+<place_type display_value="Yoga/Meditation room">122861ad19560110fa9b52ddfa38ac92</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#A5825C</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e907c198c390571014d3b91ed4013177</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#F4E9DD</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Yoga - Meditation room">589485b5191a0110fa9b52ddfa38ac0a</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>17</order>
+<place display_value=""/>
+<place_type display_value="Yoga/Meditation room">122861ad19560110fa9b52ddfa38ac92</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#A5825C</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>25b64958c390571014d3b91ed40131f5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#F7DFE7</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Locker">69cbc273d4533010fa9b51c41fd67bc7</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>18</order>
+<place display_value=""/>
+<place_type display_value="Locker">b87925ad19560110fa9b52ddfa38ac0e</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#AF647D</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a507c918c390571014d3b91ed4013131</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#F7DFE7</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Locker">69cbc273d4533010fa9b51c41fd67bc7</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>18</order>
+<place display_value=""/>
+<place_type display_value="Locker">b87925ad19560110fa9b52ddfa38ac0e</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#AF647D</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a5b64958c390571014d3b91ed40131d4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E8EAEA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Technical">105f1cd4ed018110fa9bb35d352f3036</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>19</order>
+<place display_value=""/>
+<place_type display_value="Technical room">5ec54657ed300110fa9bb35d352f30e6</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#808687</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>21b64958c390571014d3b91ed40131f4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E8EAEA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Technical">105f1cd4ed018110fa9bb35d352f3036</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>19</order>
+<place display_value=""/>
+<place_type display_value="Technical room">5ec54657ed300110fa9bb35d352f30e6</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#808687</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e507c198c390571014d3b91ed4013176</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFE2DC</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Defibrillator">8f5dd5a519560110fa9b52ddfa38ac4f</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>20</order>
+<place display_value=""/>
+<place_type display_value="Defibrillator">d2c54657ed300110fa9bb35d352f30e4</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C86E59</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>61074198c390571014d3b91ed40131a9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFE2DC</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Defibrillator">8f5dd5a519560110fa9b52ddfa38ac4f</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>20</order>
+<place display_value=""/>
+<place_type display_value="Defibrillator">d2c54657ed300110fa9bb35d352f30e4</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C86E59</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a5b64958c390571014d3b91ed40131e9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFE2DC</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Fire extinguisher">c5b5d9dced818110fa9bb35d352f30b5</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>21</order>
+<place display_value=""/>
+<place_type display_value="Fire extinguisher">dec54657ed300110fa9bb35d352f30e5</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C86E59</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>25b64958c390571014d3b91ed40131eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFE2DC</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Fire extinguisher">c5b5d9dced818110fa9bb35d352f30b5</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>21</order>
+<place display_value=""/>
+<place_type display_value="Fire extinguisher">dec54657ed300110fa9bb35d352f30e5</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C86E59</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e907c198c390571014d3b91ed401316a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFE2DC</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="First Aid Kit">e421a77cd5450110fa9b617a875e84e3</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>22</order>
+<place display_value=""/>
+<place_type display_value="First Aid Kit">52c54657ed300110fa9bb35d352f30e5</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C86E59</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>6507c198c390571014d3b91ed401316b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFE2DC</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="First Aid Kit">e421a77cd5450110fa9b617a875e84e3</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>22</order>
+<place display_value=""/>
+<place_type display_value="First Aid Kit">52c54657ed300110fa9bb35d352f30e5</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#C86E59</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>adb64958c390571014d3b91ed40131eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#D9F4F9</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Bus station">c6b5956119560110fa9b52ddfa38ac5b</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>23</order>
+<place display_value=""/>
+<place_type display_value="Bus station">3e9470600d273010f877d49b5a2047ad</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#51A5B4</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>adb64958c390571014d3b91ed40131e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#D9F4F9</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Bus station">c6b5956119560110fa9b52ddfa38ac5b</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>23</order>
+<place display_value=""/>
+<place_type display_value="Bus station">3e9470600d273010f877d49b5a2047ad</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#51A5B4</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>69074198c390571014d3b91ed40131a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#D9F4F9</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Bike  parking">1b55956119560110fa9b52ddfa38ac4f</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>24</order>
+<place display_value=""/>
+<place_type display_value="Bike parking">ba9470600d273010f877d49b5a2047ae</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#51A5B4</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a907c198c390571014d3b91ed4013156</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#D9F4F9</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Bike  parking">1b55956119560110fa9b52ddfa38ac4f</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>24</order>
+<place display_value=""/>
+<place_type display_value="Bike parking">ba9470600d273010f877d49b5a2047ae</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#51A5B4</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a5b64958c390571014d3b91ed40131d1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#F7DFE7</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Auditorium">d2ba95a119560110fa9b52ddfa38acc1</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>25</order>
+<place display_value=""/>
+<place_type display_value="Auditorium">17ba25ad19560110fa9b52ddfa38ac11</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#AF647D</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2db64958c390571014d3b91ed40131d0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#F7DFE7</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value=""/>
+<marker_display>true</marker_display>
+<marker_icon display_value="Auditorium">d2ba95a119560110fa9b52ddfa38acc1</marker_icon>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>25</order>
+<place display_value=""/>
+<place_type display_value="Auditorium">17ba25ad19560110fa9b52ddfa38ac11</place_type>
+<polygon_display>true</polygon_display>
+<stroke_color>#AF647D</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>2</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2107c198c390571014d3b91ed4013156</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#C1C5CD</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Furnitures">6b202c2f4796011064062782846d431d</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>30</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e1074198c390571014d3b91ed40131a4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#C1C5CD</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Furnitures">6b202c2f4796011064062782846d431d</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>30</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e1b64958c390571014d3b91ed40131e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E4E6EA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Door">fffb3ee5052d0110fa9bb3102e5cf580</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>40</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>69074198c390571014d3b91ed40131a3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E4E6EA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Door">fffb3ee5052d0110fa9bb3102e5cf580</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>40</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>69b64958c390571014d3b91ed40131e3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#e1f2ff</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Window">b70b4dbb97560110c7e0303e6253afb6</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>43</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#656665</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a1b64958c390571014d3b91ed40131d0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#e1f2ff</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Window">b70b4dbb97560110c7e0303e6253afb6</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>43</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#656665</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a507c198c390571014d3b91ed4013155</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#e1f2ff</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Glass wall">ce7b8dbb97560110c7e0303e6253afa2</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>44</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#656665</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>6d074198c390571014d3b91ed40131a4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#e1f2ff</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Glass wall">ce7b8dbb97560110c7e0303e6253afa2</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>44</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#656665</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>6db64958c390571014d3b91ed40131e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E4E6EA</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Wall">6e7bfe25052d0110fa9bb3102e5cf50d</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>45</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a107c198c390571014d3b91ed4013154</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E4E6EA</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Wall">6e7bfe25052d0110fa9bb3102e5cf50d</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>45</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>adb64958c390571014d3b91ed40131ce</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E4E6EA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Room">0dd69db7475a011064062782846d43d6</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>46</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a9b64958c390571014d3b91ed40131cd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#E4E6EA</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Room">0dd69db7475a011064062782846d43d6</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>46</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>1</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>ad07c198c390571014d3b91ed4013152</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#95c1e0</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Water">dd3bbae5052d0110fa9bb3102e5cf5d5</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>47</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2d07c198c390571014d3b91ed4013154</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#95c1e0</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Water">dd3bbae5052d0110fa9bb3102e5cf5d5</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>47</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>29b64958c390571014d3b91ed40131cf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#d4e5c6</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Vegetation">095bbae5052d0110fa9bb3102e5cf5fc</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>48</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2907c198c390571014d3b91ed4013153</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#d4e5c6</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Vegetation">095bbae5052d0110fa9bb3102e5cf5fc</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>48</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>25b64958c390571014d3b91ed40131ce</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Image">21a474600d273010f877d49b5a204731</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>49</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>29b64958c390571014d3b91ed40131ca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#ffffff</fill_color>
+<fill_opacity>0</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Image">21a474600d273010f877d49b5a204731</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>49</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#ffffff</stroke_color>
+<stroke_opacity>0</stroke_opacity>
+<stroke_width>0</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:55</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>2107c198c390571014d3b91ed4013151</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:55</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFFFFF</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Building">0eeaf6e5052d0110fa9bb3102e5cf549</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>50</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>5</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:27:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>ed074198c390571014d3b91ed40131a2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:27:56</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Scenario Planning">69d69cdc14b51510f8776368ef73ce44</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+<sn_map_core_view_content action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value=""/>
+<building_or_campus>false</building_or_campus>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<clickable>true</clickable>
+<connector display_value=""/>
+<connector_type display_value=""/>
+<default_bearing/>
+<default_center_latitude>0</default_center_latitude>
+<default_center_longitude>0</default_center_longitude>
+<default_floor display_value=""/>
+<default_pitch/>
+<default_zoom>15</default_zoom>
+<fill_color>#FFFFFF</fill_color>
+<fill_opacity>1</fill_opacity>
+<floor display_value=""/>
+<layer display_value=""/>
+<layer_type display_value="Building">0eeaf6e5052d0110fa9bb3102e5cf549</layer_type>
+<marker_display>true</marker_display>
+<marker_icon display_value=""/>
+<max_zoom>24</max_zoom>
+<min_zoom>15</min_zoom>
+<order>50</order>
+<place display_value=""/>
+<place_type display_value=""/>
+<polygon_display>true</polygon_display>
+<stroke_color>#B0B5BF</stroke_color>
+<stroke_opacity>1</stroke_opacity>
+<stroke_width>5</stroke_width>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:26:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>61b60558c390571014d3b91ed4013159</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:26:34</sys_updated_on>
+<title_display>true</title_display>
+<view_type display_value="Default">7a6838b70d120110fa9bd879637c6dcb</view_type>
+<visible>true</visible>
+</sn_map_core_view_content>
+</unload>

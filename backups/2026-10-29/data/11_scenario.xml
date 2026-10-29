@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-29 17:51:02">
+<sn_wsd_spcmgmt_scenario_plan action="INSERT_OR_UPDATE">
+<active>true</active>
+<description>Move Technology desks to Floor 12 and free Floor 10 for Retail Banking growth</description>
+<group_by>neighborhoods</group_by>
+<invalid>false</invalid>
+<last_fix_date/>
+<locations>c4483858c35c171014d3b91ed4013164</locations>
+<name>Summit Tower restack - consolidate Technology on Floor 12</name>
+<opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+<owned_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owned_by>
+<parent_scenario_plan display_value=""/>
+<qualifying_spaces table="sn_wsd_core_space">building=c4483858c35c171014d3b91ed4013164<item goto="false" or="false" field="building" endquery="false" value="c4483858c35c171014d3b91ed4013164" operator="=" newquery="false" display_table="sn_wsd_core_building" display_value="Summit Tower"/>
+</qualifying_spaces>
+<sc_plan_data_internal/>
+<state>published</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:00:07</sys_created_on>
+<sys_id>86a08ddcc310571014d3b91ed4013117</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 21:49:20</sys_updated_on>
+<wsd_approval>not requested</wsd_approval>
+<wsd_approval_history/>
+</sn_wsd_spcmgmt_scenario_plan>
+</unload>

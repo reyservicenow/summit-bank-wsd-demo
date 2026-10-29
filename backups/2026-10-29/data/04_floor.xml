@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-29 17:50:56">
+<sn_wsd_core_floor action="INSERT_OR_UPDATE">
+<active>true</active>
+<actual_end_date/>
+<actual_start_date/>
+<boma_type display_value="None">8850cffd77201110f47ba8aecd5a99c0</boma_type>
+<boma_type_overriden>false</boma_type_overriden>
+<building display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</building>
+<campus display_value="Summit Bank Charlotte Campus">dde7f810c35c171014d3b91ed4013184</campus>
+<capacity>1</capacity>
+<capacity_ratio>1</capacity_ratio>
+<cc_dept_config>false</cc_dept_config>
+<city>Charlotte</city>
+<cmn_location_source/>
+<cmn_location_type>floor</cmn_location_type>
+<company display_value=""/>
+<contact display_value=""/>
+<coordinates_retrieved_on/>
+<country>USA</country>
+<delete_on/>
+<department display_value=""/>
+<description/>
+<duplicate>false</duplicate>
+<external_id>dcf44154c390571014d3b91ed4013185</external_id>
+<fax_phone/>
+<full_name>Charlotte, NC/Summit Bank Charlotte Campus/Summit Tower/Summit Tower - Floor 10</full_name>
+<gross_size_overridden>false</gross_size_overridden>
+<gross_size_sq_feet>1632</gross_size_sq_feet>
+<gross_size_sq_meter>151.617696</gross_size_sq_meter>
+<image/>
+<indoor_map_floor display_value=""/>
+<is_reservable>true</is_reservable>
+<lat_long_error/>
+<latitude/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<longitude/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<measurement_unit>sq_feet</measurement_unit>
+<name>Summit Tower - Floor 10</name>
+<number>FLOR0001051</number>
+<order>10</order>
+<parent display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</parent>
+<phone/>
+<phone_territory display_value=""/>
+<planned_end_date/>
+<planned_start_date/>
+<primary_location display_value=""/>
+<processing>false</processing>
+<rebuild_entity_dxfs>false</rebuild_entity_dxfs>
+<region display_value=""/>
+<requires_check_in>false</requires_check_in>
+<site display_value="Charlotte, NC">d1e7f810c35c171014d3b91ed401312f</site>
+<state>NC</state>
+<stock_room>false</stock_room>
+<street/>
+<sys_class_name>sn_wsd_core_floor</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:23:23</sys_created_on>
+<sys_id>08483858c35c171014d3b91ed401316a</sys_id>
+<sys_mod_count>51</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 20:00:03</sys_updated_on>
+<time_zone>US/Eastern</time_zone>
+<title>Summit Tower - Floor 10</title>
+<total_capacity/>
+<usable_size_overridden>false</usable_size_overridden>
+<usable_size_sq_feet>1632</usable_size_sq_feet>
+<usable_size_sq_meter>151.617696</usable_size_sq_meter>
+<wsd_banner_image/>
+<wsd_email/>
+<wsd_push_down>no</wsd_push_down>
+<wsd_push_down_state/>
+<wsd_source>TRIRIGA</wsd_source>
+<wsd_status>active</wsd_status>
+<zip/>
+</sn_wsd_core_floor>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes>700000</chunk_size_bytes>
+<compressed>true</compressed>
+<content_type>text/json</content_type>
+<file_name>dxf.all_entities.json</file_name>
+<hash>e9e5e6888cef8452bd239d266bb6c3370a7f2287af5c713b96f46e5dfe81ed55</hash>
+<image_height/>
+<image_width/>
+<size_bytes>17216</size_bytes>
+<size_compressed>1426</size_compressed>
+<state>available</state>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:03</sys_created_on>
+<sys_id>546ecd98c3d0571014d3b91ed4013141</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 20:00:04</sys_updated_on>
+<table_name>sn_wsd_core_floor</table_name>
+<table_sys_id>08483858c35c171014d3b91ed401316a</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAA/w==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="dxf.all_entities.json" sys_id="546ecd98c3d0571014d3b91ed4013141">546ecd98c3d0571014d3b91ed4013141</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:03</sys_created_on>
+<sys_id>946ecd98c3d0571014d3b91ed4013141</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>3ZtRT9w4FIX/CsrzgGzHcRzeoIC2WnZBtKvdqqpGITFlJApoZuiWRfz39YQkVWavMyfxBJF9Qnd04SZnPm6Ob+zPT8Hy8d4E+8Hpn+dnp59O3/9+HEyC6/Q2v1l9yllkw5v00cxtdLB7MDfp7of7NDP248V1uvrV5fzBTILvZr6cZWYR7H9+Cn4E+1xPgkf7gz1PilhIOlZlXOWr5y+TILu7ubMFRRRNgoeFmR+lyzTYfwoWj4vpLF9dl5Q61pHOwijjMWdc5uFlwk0uGQ85i+3VLdPL4hYWt9O/F/k0u5ub6aK88vv57Fs6f5wiOV1qzhbTubHX+/3l774ok1rN7K8Hz6s7LdX+ePzXx6bO6r86v8/N7epGzI9lkbJ7xEQZ/2JmX6/tp9x+C8t0vjy/m90uVwqtlEz2xIuWYs/q90+wbzUPzG2+OanUnas4Voli/1PxXagf9kRdiibaUtNxhXqVvw3UU/36ahc1PVB/B6EeAajLEECdTtoG6m9ffBfqJz1Rj9bQVpKOK9SjLXb1nL++2kXN/qhzBqEeA6hHSFenk7aB+tsX34E6j3uiLlShpBAlyqGgY10ZGlXFEOqZ1JfOO9dqELU31/RAXSOocw6gLuKSYiHdqNNJIOojF9+Buujr1UNWKBnKyqBIMpZVVy/zJdbVBZM6zJzW7WoItYGa/VEXiFf/7ULsnM9M/u3OIruZ+bBo2CvREzfzdBLG/Ni/BVd7P+rrZFiznUeKjqv2XuVj7X115+7/9qtBOgxQ06O9H0PtXSJOhgPtnU7CUR+z+K72HvYdxay1d6HJuG7vvFt7tw+2K+edZ4MskYCaHu1dQu2d7xzePJidi1n+1SBTmXAv2djg6SSQ+pF/Dy7qey9VVZPyWJJxTX2ZD1If6rZHWxwNoTZQc03tq/RmgWIfImvVw4tfAdZVNXFpY51OwlgfvfquuYznYrWew4SCjlVzsQrOZaL24esg3hGo6TGChBarLOyyWG2by9BJGOtjF9+Fuqdxr9GOFB2rpnHfCuqX7PXVLmp6oA4Z9+L1E2zcW0eQZNI2UH/74rtQT/rOZdam65LRcT2XkZ1Q1213Hg3yEAVqeqB+AKGOrFHDCECdTgJRH7n4Lrfe18DINbceSTKu3brs5NZV1ubd5CBrI6CmxxoVMTAnZ+/++IAM3GW8F27063QSRvvY9XcNHz0bez1slIyOdbOxg8NH1f6qwQyl9oaaHsNHqLFzZHNM3bPbho90Eo76mMV3eRjP4WPtWbii47XhI+hhtHVvofsF8iCPUaCmh4dBho9HDOnqHLHrdBKG+tjFd3V13hN1tYZ2LOi4Ql11GsIkre7tapDGAtT06OoCQl0jA0dkCEMnYaiPXXyXXe+75THWTcOSMDIOq7jMtzGCeirbrJsapLEANT2G6wLZ83h2coJYGM3Ll0RCuWGnkzDYRy+/i/a+dj1e2/WYMDIWrEm7jSHaWxcq0SBTL6CmD+2IX7e0Iy6mBpm3GHY6CaR97PK7bIynY697OVd0rJuOHVyc5rptrcIG2ZwB1PSwMZhjT7o49rbFKZ2EsT528V2oex5SqtEWko5r1HUn1FuX5TIbRO3NNT1Qhw4pFZve4UNKraiTSSDqIxff5WH6vjaN1zZ9JYyMpWx6GBsjqJt2+5YPoTZQ08fDIO9NrYdB9gjU9iTUgIdpJGGwj15+V2P3PKdUN3Il6bje3dupsa9u3b3tLU6HkntDTY/XSdA5JY4cyYuQxk4n4ayPWXxXY/ecOtZox4KOK9RVp3NKRrfu8BxkdQTU9EAdmjpyZD+MQs4p0Ukg6iMX39XVPQ9a/3xNqum4Ql2KTqi3ujczzEN0c00Puw4dtOaIg6nPULehTieBqI9S/C//Ap9jQ0FAQwAA</data>
+<length>1888</length>
+<position>1</position>
+<sys_attachment display_value="dxf.all_entities.json" sys_id="546ecd98c3d0571014d3b91ed4013141">546ecd98c3d0571014d3b91ed4013141</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:03</sys_created_on>
+<sys_id>586ecd98c3d0571014d3b91ed4013141</sys_id>
+</sys_attachment_doc>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes>700000</chunk_size_bytes>
+<compressed>true</compressed>
+<content_type>text/json</content_type>
+<file_name>dxf.json</file_name>
+<hash>ba9acf06bbc5f5a4f4964113e5f7ff9053f5eff3315367920d6bf589edb80529</hash>
+<image_height/>
+<image_width/>
+<size_bytes>679</size_bytes>
+<size_compressed>273</size_compressed>
+<state>available</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:03:15</sys_created_on>
+<sys_id>c4614150c350571014d3b91ed4013133</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 19:03:16</sys_updated_on>
+<table_name>sn_wsd_core_floor</table_name>
+<table_sys_id>08483858c35c171014d3b91ed401316a</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAA/w==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="dxf.json" sys_id="c4614150c350571014d3b91ed4013133">c4614150c350571014d3b91ed4013133</sys_attachment>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:03:15</sys_created_on>
+<sys_id>08614150c350571014d3b91ed4013133</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>jVHBaoQwEP2XOWchSTG7681DtwjSFjyUUjxEHVipjaLpUhH/vUmatdJKaw7JvMnw3sybEbTMa+whHKGWA3Y2OEtV1gghcCBfWfcfpSf7KPlm/ywicKn6Kre1untHAkVTN12sSvyAkHloIrFnTBzoROAuPcULEgc3soiAO4poF3Uod2krC1z2s0xvpORB8E0Yl6h+87ns9jn34ijoZA6BvG6KV2uciVHpSlfW5pcR9NBageTp8SF5TuL7W8M/W84ou5o+m9yfZTtLX7DTVeGpjDwlMJh7Ig4xuo7toItyA7OV9fzbG1/05nf3Z3PcqXGvfTysweDGY36F2Y+dZ9MnTon1XacCAAA=</data>
+<length>352</length>
+<position>1</position>
+<sys_attachment display_value="dxf.json" sys_id="c4614150c350571014d3b91ed4013133">c4614150c350571014d3b91ed4013133</sys_attachment>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:03:15</sys_created_on>
+<sys_id>c8614150c350571014d3b91ed4013133</sys_id>
+</sys_attachment_doc>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes>700000</chunk_size_bytes>
+<compressed>true</compressed>
+<content_type>text/json</content_type>
+<file_name>dxf.reservable_entities_only.json</file_name>
+<hash>da809c68274be3e6a5aecc31c1287d0b0be5cb3039a76f70e4a8bf9408486955</hash>
+<image_height/>
+<image_width/>
+<size_bytes>14217</size_bytes>
+<size_compressed>1210</size_compressed>
+<state>available</state>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:03</sys_created_on>
+<sys_id>506ecd98c3d0571014d3b91ed401317c</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 20:00:04</sys_updated_on>
+<table_name>sn_wsd_core_floor</table_name>
+<table_sys_id>08483858c35c171014d3b91ed401316a</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAA/w==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="dxf.reservable_entities_only.json" sys_id="506ecd98c3d0571014d3b91ed401317c">506ecd98c3d0571014d3b91ed401317c</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:03</sys_created_on>
+<sys_id>906ecd98c3d0571014d3b91ed401317c</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>3ZtRb5tIFIX/SsSzEzHDMIz9ljaptlJ2G7Vd7VZVZRGYNJZSOwKnW2+U/14gwAr3DhwYE4V9qm5002uOvxwfLuPPD852d6edhXPx1+W7i08Xb/84d2bOTbiOb/OfMtfPyttwp5OsOj0+TXR4/OEujHT24/QmzH91m9zrmfNdJ9tVpFNn8fnB+eEsmJo5u+wf93FW1FzQtSzrql8+fpk50eZ2kw3kvj9z7lOdnIXb0Fk8OOkuXa7i/HUJoQLlq8jzIxYwl4nYu5ozHQuXecwNsle3Da+KS0jXy3/SeBltEr1My1d+l6y+hcluifT0mblKl4nOXu/3p//3SZkw0yz7decxv9JS7Y/nf39s6ix/1fltrNf5hegf26Ll+MzlZf2bXn29yX7KsndhGybby81qvc0VypWcn/AnLflJpt+/ziLT3NHruLup1J3JIJBz6f5PxTeh/mog6oI30RaKrivUq/5DoB6q51e7mGmB+msIdR9AXXgA6nTTIVB/+eKbUH8zEHV/D20p6LpC3T+gq8fs+dUuZg5HnbkQ6gGAuo+4Ot10CNRfvvgG1FkwEHUuCyU5L1H2OF2rKtDIqoZQj4S6Ml65kqOo3T3TAnWFoM4YgDoPSoq5MKNON4GoT1x8A+p8aFb33EJJT1QBRZC1qFy97BeYq3NXKC8yRrfrMdQGZg5HnSNZ/ff3/OhypeNvmwzZbua9wrBz0edm5ukmjPmpvwsmez8bmmTcpp37kq4re6/6MXvPr9z81349isMAMy3s/Ryyd4EkGQbYO92Eoz5l8U327g1dxezZO1dkXds762fv2QfbtfHKo1FukYCZFvYuIHtnR69u7/XR+1X8VSNbGe9k3mnwdBNI/cTfB9OtqmV+r29NPU7XspnfwVtVv30fNcrHKTDTYisD5XfX65Pf225V6SYM9amLb0LdMsvUaPuSrmUzyxwE9Sv3+dUuZlqgDmWZYiMPZ5nWrQzZdAjUX774JtTnQ29V9xaOwqXr+lZV9EJdtV2574+idvdMC9RPIdSR2O75AOp0E4j6xMU3xfahAUbIZkz3BVnXsb3sB2O7jNruzcUocRGYaRHbkQDz5t3rPz8gO0gRnHidcZ1uwmifuv6mfYylsdf7F+HStWoaO7iPke3bVz2W2h0zLfYxkLEz5LxA7dlt+xi6CUd9yuKbMozlPqbOLEzS9d4+BswwKktvnvmZ2igfo8BMiwyD7GPOXMTVGRLX6SYM9amLb3J1NhB1uYd2wOm6Ql32WsLMW9Pb9SjGAsy0cHUOoa4A1CWyhKGbMNSnLr4JdUtXrwMLk3Stmq4OBphYtX2euaM80wBmWqCOufq8j6u3BRi6CUN96uKbULc821ujzQVd16irXqi3RjcRjaJ290wL1KGzvcVZMfhsbyvqZBOI+sTFN6FueeCxRlsKuq6PCfRCXYu252dBOIbawEyLJQx04JEhZ3t9BHW6CUN96uKb9o2WWb1GO+B0rZpZHUVdtT4qHuVBBjDTAnUoqzPkKZJEDjzSTSDqExff5OqW39j4b7mo6LpCXfBeqLd+nul4FLW7Z1oEGOgbGww5G1B/GaMNdboJRH2S4n/5Ccr+0GKJNwAA</data>
+<length>1600</length>
+<position>1</position>
+<sys_attachment display_value="dxf.reservable_entities_only.json" sys_id="506ecd98c3d0571014d3b91ed401317c">506ecd98c3d0571014d3b91ed401317c</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:03</sys_created_on>
+<sys_id>546ecd98c3d0571014d3b91ed401317c</sys_id>
+</sys_attachment_doc>
+<sn_wsd_core_floor action="INSERT_OR_UPDATE">
+<active>true</active>
+<actual_end_date/>
+<actual_start_date/>
+<boma_type display_value="None">8850cffd77201110f47ba8aecd5a99c0</boma_type>
+<boma_type_overriden>false</boma_type_overriden>
+<building display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</building>
+<campus display_value="Summit Bank Charlotte Campus">dde7f810c35c171014d3b91ed4013184</campus>
+<capacity>1</capacity>
+<capacity_ratio>1</capacity_ratio>
+<cc_dept_config>false</cc_dept_config>
+<city>Charlotte</city>
+<cmn_location_source/>
+<cmn_location_type>floor</cmn_location_type>
+<company display_value=""/>
+<contact display_value=""/>
+<coordinates_retrieved_on/>
+<country>USA</country>
+<delete_on/>
+<department display_value=""/>
+<description/>
+<duplicate>false</duplicate>
+<external_id>99670dd8c390571014d3b91ed4013128</external_id>
+<fax_phone/>
+<full_name>Charlotte, NC/Summit Bank Charlotte Campus/Summit Tower/Summit Tower - Floor 11</full_name>
+<gross_size_overridden>false</gross_size_overridden>
+<gross_size_sq_feet>1632</gross_size_sq_feet>
+<gross_size_sq_meter>151.617696</gross_size_sq_meter>
+<image/>
+<indoor_map_floor display_value=""/>
+<is_reservable>true</is_reservable>
+<lat_long_error/>
+<latitude/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<longitude/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<measurement_unit>sq_feet</measurement_unit>
+<name>Summit Tower - Floor 11</name>
+<number>FLOR0001052</number>
+<order>11</order>
+<parent display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</parent>
+<phone/>
+<phone_territory display_value=""/>
+<planned_end_date/>
+<planned_start_date/>
+<primary_location display_value=""/>
+<processing>false</processing>
+<rebuild_entity_dxfs>false</rebuild_entity_dxfs>
+<region display_value=""/>
+<requires_check_in>false</requires_check_in>
+<site display_value="Charlotte, NC">d1e7f810c35c171014d3b91ed401312f</site>
+<state>NC</state>
+<stock_room>false</stock_room>
+<street/>
+<sys_class_name>sn_wsd_core_floor</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:23:26</sys_created_on>
+<sys_id>7c483c58c35c171014d3b91ed40131f9</sys_id>
+<sys_mod_count>51</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 20:00:04</sys_updated_on>
+<time_zone>US/Eastern</time_zone>
+<title>Summit Tower - Floor 11</title>
+<total_capacity/>
+<usable_size_overridden>false</usable_size_overridden>
+<usable_size_sq_feet>1632</usable_size_sq_feet>
+<usable_size_sq_meter>151.617696</usable_size_sq_meter>
+<wsd_banner_image/>
+<wsd_email/>
+<wsd_push_down>no</wsd_push_down>
+<wsd_push_down_state/>
+<wsd_source>TRIRIGA</wsd_source>
+<wsd_status>active</wsd_status>
+<zip/>
+</sn_wsd_core_floor>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes>700000</chunk_size_bytes>
+<compressed>true</compressed>
+<content_type>text/json</content_type>
+<file_name>dxf.all_entities.json</file_name>
+<hash>643718f5a5461c786765f8d6d8c35990acb31b43e98c6439453982a020638f43</hash>
+<image_height/>
+<image_width/>
+<size_bytes>17216</size_bytes>
+<size_compressed>1416</size_compressed>
+<state>available</state>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:04</sys_created_on>
+<sys_id>946ecd98c3d0571014d3b91ed40131c7</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 20:00:04</sys_updated_on>
+<table_name>sn_wsd_core_floor</table_name>
+<table_sys_id>7c483c58c35c171014d3b91ed40131f9</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAA/w==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="dxf.all_entities.json" sys_id="946ecd98c3d0571014d3b91ed40131c7">946ecd98c3d0571014d3b91ed40131c7</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:04</sys_created_on>
+<sys_id>d46ecd98c3d0571014d3b91ed40131c7</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>3ZtvT9tIEMa/CvLrgLx/vc47KKCrjh6I9nStqioysSmRUkBJ6JVDfPc6ie0q7uzmsTdG+F6hiSaM98lPk5nZyeenYPF4nwXD4Oyfi/OzT2dv/zoJBsFNcptOl68yGeXmNHnMZrl1uH84y5L99/fJOMtfnt8ky7cuZg/ZIPiezRaTcTYPhp+fgh/BkOtB8Jj/4c+DlS04bZvCLv3N85dBML6b3uUBuVKD4GGezY6TRRIMn4L543w0SfMnCZk00ViZsVBjFrHcTMVVzLJUhkywcZI/3SK5Wh1hfjv6d56OxnezbDQvnvx+NvmWzB5HiE+TmJP5aJblz/t9/X/XyiS5Zvnbg+flSQu1P5x8/LCps/ld57dpdrs8SPZjsXRh+8eMFfYf2eTrTf4qyz+FRTJbXNxNbhdLhZZKRgeFtvIg1++/YBg+D4LsNt3uVOjOdBTpWIf/U/FtqB+1RF3W0JaGtkvUJW+EeirNlfXkXHai9vaYHqi/gVAXAOpSAKjTTiDqPRffgrpiLVHXtawecdouUdeNsjpjrpPHnagNxGyPuuIQ6hpAXSNZnXbCUO+7+DbUT1uirtboClmiLUlb6sIu/HMbQl1Jc209uVKdqL09Zk3t62Q6R1nXIcD60eWfCOtlxhaxg3XSCWS97+pbYBeiJewsXEnJwgJmpmm7hL30x2AXUhphPfp12oXcQMz2eV1IJK+HSLXOWIEx43bWaSeM9b6Lb0NdtUXdbKLNJW1XqJtGqBtXn7Lu33au9vaYHqhrCHWOoB4jqJNOIOo9F9+GetwSdVFDW4a0XaIuZBPUpbMl51kXagMxPVA/hFCXAOpCAajTThjqfRffNoPxzOpVI1pk8d9ss5nVwcbUffIkfnm1VzE9ZjBQVmdhk6zuakxpp12g/vrFt6HumdV/jRdD2jabWX0nqKf85dVexfRAHcrqDClgqoTtQp122gXqr198WwHjOVn/VbAY2i4LmNIfLGBi18llN2pvj+lRwECT9VA1may7ChjaCUS95+Lbxo2eE5hqvMgNacvaBAYcNyrnncK4kyEAENNjso5MYN5dsr2j6UO2dzlJv2ZILSMO4q2DR9oJo77vn4MtwXtuCVQJXXDaLqnnukmCj9y9eSeVIxDTI8FDWwIhcnVaLQC4EjzthKHed/FtZftxS9RVrUxXmrbLsl2FTcp247xJU518nQIxPcr2E6hsR4YxigFlO+2Eod538W1Z3RP1KosrTdt6E3Uwqxt3FdfJ+hEQ0yOrQ6iHyJaAQm6TaCcQ9Z6Lb8vqngsxFdoRp+0Sdd2ogHGfPBIvr/YqpkdWhxZiQgOgrpEChnbaBeqvX3xbh9q2Vpe1hRglSbvqUGWjhZhYub7Psk4SCxDTo0NFavXT8zd/v0fWBGR0ILZ2prQTRnvf9bfR3vZCSdTmMVKSdkW7aDSPiZ09edrJAhIQ04N25ELp3SXfu5hk6be7HFlg3L7K2VuYp51A5nv+KdiYb3uzFNXG63FI2rwqbkxp+zN/3cmVNRDTY+VRIVdL56enSII3rJgqMkeTSjvtAvYeyG/rUlsv+NZo15K2qy610SLY2FnJdTMTAGJ6lO7Ifu9xGCFdKrIIRjthrPddfFuX6nm5VM0amabtajum0ezRffLo6uXVXsX0QB1b740B1Bkye6SddoH66xffhrpnVq/Q1pK2zWZWB1FP3VPXTrokIKZH3Q5ldYasDChkEYx2wlDvu/i2cr3tmD2qrQjEIWlLuVmu5zaKuv33KrKTq2ogpk+5jszZ83IduT6tKnFhgHJ9wwmHvdfy22hvuwsW1RJ7HJK24Ju05zZEe+o6+vruZedyb4/pQzuyDJbTjiw+ViBzDdC+4QTS3k/5v/wEqeZO4EBDAAA=</data>
+<length>1876</length>
+<position>1</position>
+<sys_attachment display_value="dxf.all_entities.json" sys_id="946ecd98c3d0571014d3b91ed40131c7">946ecd98c3d0571014d3b91ed40131c7</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:04</sys_created_on>
+<sys_id>986ecd98c3d0571014d3b91ed40131c7</sys_id>
+</sys_attachment_doc>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes>700000</chunk_size_bytes>
+<compressed>true</compressed>
+<content_type>text/json</content_type>
+<file_name>dxf.json</file_name>
+<hash>86d18fda60e3838d3fbf1df8f2e40f6302ba4237f03415113f6611dc6df048ae</hash>
+<image_height/>
+<image_width/>
+<size_bytes>679</size_bytes>
+<size_compressed>274</size_compressed>
+<state>available</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:03:16</sys_created_on>
+<sys_id>9c614550c350571014d3b91ed40131c0</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 19:03:17</sys_updated_on>
+<table_name>sn_wsd_core_floor</table_name>
+<table_sys_id>7c483c58c35c171014d3b91ed40131f9</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAA/w==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="dxf.json" sys_id="9c614550c350571014d3b91ed40131c0">9c614550c350571014d3b91ed40131c0</sys_attachment>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:03:16</sys_created_on>
+<sys_id>dc614550c350571014d3b91ed40131c0</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>jVHBaoQwEP2XOWfBZDG7681DtwiyLXgopXiIOrChWRVNl4r4701S10orXXNI5k2G92be9KBFprCFoAclOmxscBZloRACYEC+s+4/TI72KcXF/llE4Cpbmdla3XwggbxSVROVBX5CQEdoIr6jlO+9gcBjcoxmJA6uZOE+cxThJmxQbJJa5DjvZ55eScl8/4cwKrD8y+ey6+fc8QP3BnMIZKrK361xJsZSSy2tzW896K62AvHL81P8GkenB8M/WU639Gb6ZHJ7FvUkfcVGy3ykMvIegc7cA3GIesvYDjorNzBdWM/d3tist3F3/zbHnBobtQ/7JehvR8xuMP2183T4ArwQIpOnAgAA</data>
+<length>352</length>
+<position>1</position>
+<sys_attachment display_value="dxf.json" sys_id="9c614550c350571014d3b91ed40131c0">9c614550c350571014d3b91ed40131c0</sys_attachment>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:03:16</sys_created_on>
+<sys_id>90614550c350571014d3b91ed40131c1</sys_id>
+</sys_attachment_doc>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes>700000</chunk_size_bytes>
+<compressed>true</compressed>
+<content_type>text/json</content_type>
+<file_name>dxf.reservable_entities_only.json</file_name>
+<hash>217402a496ce43c468e952a33209efa4b994107ee69954f9572958a8f16a8cd2</hash>
+<image_height/>
+<image_width/>
+<size_bytes>14217</size_bytes>
+<size_compressed>1202</size_compressed>
+<state>available</state>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:04</sys_created_on>
+<sys_id>d46ecd98c3d0571014d3b91ed40131f5</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 20:00:04</sys_updated_on>
+<table_name>sn_wsd_core_floor</table_name>
+<table_sys_id>7c483c58c35c171014d3b91ed40131f9</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAA/w==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="dxf.reservable_entities_only.json" sys_id="d46ecd98c3d0571014d3b91ed40131f5">d46ecd98c3d0571014d3b91ed40131f5</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:04</sys_created_on>
+<sys_id>186ecd98c3d0571014d3b91ed40131f5</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>3Zrdbts4EIVfJdC1E4jijyjfpU2KLZBug7SL3UVRGIrEbQykdiA73XqDvHtlR1Jhd0gfiVYQ7VUwxjgjHn0YHw756SFYru5MMA4u/rx8f/H3xdvfz4NRcJPO8tv1p0zEZXibrkxRRqfHp4VJjz/cpZkpP17cpOuvLot7Mwq+mWI5zcwiGH96CL4H40iNglX5J3ocbWIe0bGu4jpfP34eBdn8dl4WjKQcBfcLU5ylyzQYPwSL1WIyzcsnCZnQcSZ1xmXGYlaGOb9OmMlFyDjL0vLplun1ZgmL2eTfRT7J5oWZLKonvyumX9NiNUFy2tScLiaFKZ/329P/fVImLTUrvx48rldaqf3x/K+P2zrrX3V+m5vZeiHm+3Kdwo7PGKvi38z0y035KSvfwjItlpfz6Wy5VmitZHxSaStOSv3+C8bh4ygws3x/UqU7U3GsEhX+T8W3of6qI+piB22h6bhGXUStUM+FvrauPBK9qL2/pgfqryHUOYC64ADqdBKI+sDFt6AuWUfU1U5XjyM6rlFXrbo6Y66VJ72oDdTsjrqMINQVgLpCujqdhKE+dPEtqHPeEXUWbpRkYYUyU3Ss6jisYwR1LoTm1pX/k/ehNlCzO+pcIKiHiIFhrKKYRXbU6SQM9aGLb0NddkVdb6MdCTpuUNetUNcu6/ZkaQ+u9v6aHqgrCPUIQT1BUCeTQNQHLr4N9aQj6nwHbRHScY06F21QF85dSmT6UBuo6YH6KYS6AFDnEkCdTsJQH7r4tm2pZ1dvvHnVxX+J9XZXB726e+Vp8vxqb2p6bEuhrs7CNl3d5dXppEOg/vLFt6Hu2dV/TlxCOtbbXf0gqOfR86u9qemBOtTVGWJgmobtQp1OOgTqL198m4HxHDb+NCyajmsDU+eDBiZxrVz0o/b+mh4GBho2hrLNsNFlYOgkEPWBi28bNnpOYLioDYsmY7EzgREY6tI5Zs16GQIANT2GjcgE5t0VO3p1e2+Orqb5F4N4GX6SPMmeOLwMmYRRP/T3YGvwngenTUPnER3X1EeqTYOP3XvzXpwjUNOjwUMHpyFymtSciboaPJ2EoT508W22/awj6nLHpktFx7Vtl2Eb266dhwuyl59ToKaHbT+HbDsyjJEMsO10Eob60MW3dXVP1JsuLhUdq23Uwa6u3S6ulxsZQE2Prg6hHiIHpxI5TaKTQNQHLr6tq3veEWjQjiM6rlFXrQyMe+Uxf361NzU9ujp0RyDUAOoKMTB00iFQf/ni23aoXb26UNs7UinIuNmhVvngDjWRrt8z00tjAWp67FARr/7m/es/PiDXBER8wvfuTOkkjPah62+jveuBEt+ZxwhBxg3tvNU8JnHuyXPZi9r7a3rQjhwovbuKji6nJv86L5EFxu2bnr2HeToJZH7gb8Hm29909e0743Ul6Ljx7a2uxmTO37Z+dklATQ8zE0JmJkZ8O3I1hk7CUB+6+Dbf7jlub6YvTNFxc1+g1TTGvfL4+vnV3tT0QB278JggM3ZkGkMnHQL1ly++DXXPrt6grQQd6+2uDqKeu+dQvfhGoKaHk4G6OkMOUSVyNYZOwlAfpviffwCSqRBAiTcAAA==</data>
+<length>1592</length>
+<position>1</position>
+<sys_attachment display_value="dxf.reservable_entities_only.json" sys_id="d46ecd98c3d0571014d3b91ed40131f5">d46ecd98c3d0571014d3b91ed40131f5</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:04</sys_created_on>
+<sys_id>d86ecd98c3d0571014d3b91ed40131f5</sys_id>
+</sys_attachment_doc>
+<sn_wsd_core_floor action="INSERT_OR_UPDATE">
+<active>true</active>
+<actual_end_date/>
+<actual_start_date/>
+<boma_type display_value="None">8850cffd77201110f47ba8aecd5a99c0</boma_type>
+<boma_type_overriden>false</boma_type_overriden>
+<building display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</building>
+<campus display_value="Summit Bank Charlotte Campus">dde7f810c35c171014d3b91ed4013184</campus>
+<capacity>1</capacity>
+<capacity_ratio>1</capacity_ratio>
+<cc_dept_config>false</cc_dept_config>
+<city>Charlotte</city>
+<cmn_location_source/>
+<cmn_location_type>floor</cmn_location_type>
+<company display_value=""/>
+<contact display_value=""/>
+<coordinates_retrieved_on/>
+<country>USA</country>
+<delete_on/>
+<department display_value=""/>
+<description/>
+<duplicate>false</duplicate>
+<external_id/>
+<fax_phone/>
+<full_name>Charlotte, NC/Summit Bank Charlotte Campus/Summit Tower/Summit Tower - Floor 12</full_name>
+<gross_size_overridden>false</gross_size_overridden>
+<gross_size_sq_feet>400</gross_size_sq_feet>
+<gross_size_sq_meter>37.1612</gross_size_sq_meter>
+<image/>
+<indoor_map_floor display_value=""/>
+<is_reservable>true</is_reservable>
+<lat_long_error/>
+<latitude/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<longitude/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<measurement_unit>sq_feet</measurement_unit>
+<name>Summit Tower - Floor 12</name>
+<number>FLOR0001053</number>
+<order>12</order>
+<parent display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</parent>
+<phone/>
+<phone_territory display_value=""/>
+<planned_end_date/>
+<planned_start_date/>
+<primary_location display_value=""/>
+<processing>false</processing>
+<rebuild_entity_dxfs>false</rebuild_entity_dxfs>
+<region display_value=""/>
+<requires_check_in>false</requires_check_in>
+<site display_value="Charlotte, NC">d1e7f810c35c171014d3b91ed401312f</site>
+<state>NC</state>
+<stock_room>false</stock_room>
+<street/>
+<sys_class_name>sn_wsd_core_floor</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:23:29</sys_created_on>
+<sys_id>6d48fc58c35c171014d3b91ed401318e</sys_id>
+<sys_mod_count>12</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 20:00:04</sys_updated_on>
+<time_zone>US/Eastern</time_zone>
+<title>Summit Tower - Floor 12</title>
+<total_capacity/>
+<usable_size_overridden>false</usable_size_overridden>
+<usable_size_sq_feet>400</usable_size_sq_feet>
+<usable_size_sq_meter>37.1612</usable_size_sq_meter>
+<wsd_banner_image/>
+<wsd_email/>
+<wsd_push_down>no</wsd_push_down>
+<wsd_push_down_state/>
+<wsd_source>TRIRIGA</wsd_source>
+<wsd_status>active</wsd_status>
+<zip/>
+</sn_wsd_core_floor>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes>700000</chunk_size_bytes>
+<compressed>true</compressed>
+<content_type>text/json</content_type>
+<file_name>dxf.all_entities.json</file_name>
+<hash>2de08ae57a1a119d028f63f6abc11e19b3168c6d97f5d9707032205ab23b8905</hash>
+<image_height/>
+<image_width/>
+<size_bytes>2989</size_bytes>
+<size_compressed>448</size_compressed>
+<state>available</state>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:04</sys_created_on>
+<sys_id>d46ecd98c3d0571014d3b91ed4013187</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 20:00:04</sys_updated_on>
+<table_name>sn_wsd_core_floor</table_name>
+<table_sys_id>6d48fc58c35c171014d3b91ed401318e</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAA/w==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="dxf.all_entities.json" sys_id="d46ecd98c3d0571014d3b91ed4013187">d46ecd98c3d0571014d3b91ed4013187</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:04</sys_created_on>
+<sys_id>186ecd98c3d0571014d3b91ed4013187</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>3ZJda8IwFIb/y7mu0ny0tb0TFCbIJmywDRklpnEWXJUkbnbif1+qTpBVjV9j7qq84aTnnCdPdwY6HwuIoP3YuWs/t1u3TXBgwLJkWJwin5g4ZLmQJtUrdSlY5X7MuDDHasCKq1pOhAPvQuqUCwVRdwZTiJDrQF585s4i4/KMvzNa5xcH+Gg4Mg2x5zkwUUI2mGYQzUDlKk4TMwn2aK3PvRonHkcBchFNSC9EIqEuIijEZjrNeosVVBZ/qCTmIylitZp8LNM3JvPYpuaQnqmKpTDzvi//uyTDDDNzHebFpivaD82nh03O9CfnViKyYhEx1UUJrjRctMo3In0dmFNkXkEzqTujNNMFoYIkqeIla1o1/D4hMoxBZMn+ohV35AeBH/ruP4W/TfXgSNUJ3VSblue16oQepHqya3PBL0J7f88TVK9ZqU4sVCeBherlRZaqXzn8bap7R6qO8abapDyvVcf4ENX9nZvz3iVoW/Q8QXXfSnVsoTr2LFQvL7JT/drhb1M9PFJ16m+q7ZXnterUP5/qffr7tBc9T1C9bqU6tVCdhhaqlxedQ/W/Cv/lCxWNe/WtCwAA</data>
+<length>584</length>
+<position>1</position>
+<sys_attachment display_value="dxf.all_entities.json" sys_id="d46ecd98c3d0571014d3b91ed4013187">d46ecd98c3d0571014d3b91ed4013187</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:04</sys_created_on>
+<sys_id>d86ecd98c3d0571014d3b91ed4013187</sys_id>
+</sys_attachment_doc>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes>700000</chunk_size_bytes>
+<compressed>true</compressed>
+<content_type>text/json</content_type>
+<file_name>dxf.json</file_name>
+<hash>98278769e900bfccfa0c1c1ab5c67be92ef2b34bf13473e9af6d554eb4a6a4e6</hash>
+<image_height/>
+<image_width/>
+<size_bytes>679</size_bytes>
+<size_compressed>273</size_compressed>
+<state>available</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:03:17</sys_created_on>
+<sys_id>ec618550c350571014d3b91ed40131d4</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 19:03:17</sys_updated_on>
+<table_name>sn_wsd_core_floor</table_name>
+<table_sys_id>6d48fc58c35c171014d3b91ed401318e</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAA/w==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="dxf.json" sys_id="ec618550c350571014d3b91ed40131d4">ec618550c350571014d3b91ed40131d4</sys_attachment>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:03:17</sys_created_on>
+<sys_id>20618550c350571014d3b91ed40131d5</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>jVHBaoQwEP2XOWfBpJjd9eahWwRpCx5KKR6iBjY0jRLTpSL+e5M0a6WV1hySeZPhvZk3IxhWSd5DMoJkA9cuODPVSA4JEEBfWf+fFif3KPbm/hxCcBG9qFyt0e8cQd3KVmeq4R+Q4ABtRPcY00M0IbgrTtmCxMONLDQmniLdpZqzXdGxmi/7WaY3UpI4/ibMGq5+8/ns9jn39EijyR4ElWzrV2ecjbkywghn88sIZuicQP70+JA/59n9reWfLccUX02fTe7PrJulL1wbUQcqKx8hGOw9IY9wtI7doItyC8uV9fzbG1n0Fnb3Z3PEq5GgfTyswfgmYHKF5Y+dl9Mn67wrG6cCAAA=</data>
+<length>352</length>
+<position>1</position>
+<sys_attachment display_value="dxf.json" sys_id="ec618550c350571014d3b91ed40131d4">ec618550c350571014d3b91ed40131d4</sys_attachment>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:03:17</sys_created_on>
+<sys_id>e0618550c350571014d3b91ed40131d5</sys_id>
+</sys_attachment_doc>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes>700000</chunk_size_bytes>
+<compressed>true</compressed>
+<content_type>text/json</content_type>
+<file_name>dxf.reservable_entities_only.json</file_name>
+<hash>2de08ae57a1a119d028f63f6abc11e19b3168c6d97f5d9707032205ab23b8905</hash>
+<image_height/>
+<image_width/>
+<size_bytes>2989</size_bytes>
+<size_compressed>448</size_compressed>
+<state>available</state>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:04</sys_created_on>
+<sys_id>906ecd98c3d0571014d3b91ed401319d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 20:00:04</sys_updated_on>
+<table_name>sn_wsd_core_floor</table_name>
+<table_sys_id>6d48fc58c35c171014d3b91ed401318e</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAA/w==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="dxf.reservable_entities_only.json" sys_id="906ecd98c3d0571014d3b91ed401319d">906ecd98c3d0571014d3b91ed401319d</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:04</sys_created_on>
+<sys_id>d06ecd98c3d0571014d3b91ed401319d</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>3ZJda8IwFIb/y7mu0ny0tb0TFCbIJmywDRklpnEWXJUkbnbif1+qTpBVjV9j7qq84aTnnCdPdwY6HwuIoP3YuWs/t1u3TXBgwLJkWJwin5g4ZLmQJtUrdSlY5X7MuDDHasCKq1pOhAPvQuqUCwVRdwZTiJDrQF585s4i4/KMvzNa5xcH+Gg4Mg2x5zkwUUI2mGYQzUDlKk4TMwn2aK3PvRonHkcBchFNSC9EIqEuIijEZjrNeosVVBZ/qCTmIylitZp8LNM3JvPYpuaQnqmKpTDzvi//uyTDDDNzHebFpivaD82nh03O9CfnViKyYhEx1UUJrjRctMo3In0dmFNkXkEzqTujNNMFoYIkqeIla1o1/D4hMoxBZMn+ohV35AeBH/ruP4W/TfXgSNUJ3VSblue16oQepHqya3PBL0J7f88TVK9ZqU4sVCeBherlRZaqXzn8bap7R6qO8abapDyvVcf4ENX9nZvz3iVoW/Q8QXXfSnVsoTr2LFQvL7JT/drhb1M9PFJ16m+q7ZXnterUP5/qffr7tBc9T1C9bqU6tVCdhhaqlxedQ/W/Cv/lCxWNe/WtCwAA</data>
+<length>584</length>
+<position>1</position>
+<sys_attachment display_value="dxf.reservable_entities_only.json" sys_id="906ecd98c3d0571014d3b91ed401319d">906ecd98c3d0571014d3b91ed401319d</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 20:00:04</sys_created_on>
+<sys_id>946ecd98c3d0571014d3b91ed401319d</sys_id>
+</sys_attachment_doc>
+</unload>

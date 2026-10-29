@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-29 17:50:57">
+<cmn_department action="INSERT_OR_UPDATE">
+<business_unit display_value=""/>
+<company display_value=""/>
+<cost_center display_value=""/>
+<dept_head display_value=""/>
+<description/>
+<head_count/>
+<id/>
+<name>Retail Banking</name>
+<parent display_value=""/>
+<primary_contact display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:21:49</sys_created_on>
+<sys_id>dde7f810c35c171014d3b91ed40131c2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:21:49</sys_updated_on>
+</cmn_department>
+<cmn_department action="INSERT_OR_UPDATE">
+<business_unit display_value=""/>
+<company display_value=""/>
+<cost_center display_value=""/>
+<dept_head display_value=""/>
+<description/>
+<head_count/>
+<id/>
+<name>Risk &amp; Compliance</name>
+<parent display_value=""/>
+<primary_contact display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:21:51</sys_created_on>
+<sys_id>21e7bc10c35c171014d3b91ed40131a8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:21:51</sys_updated_on>
+</cmn_department>
+<cmn_department action="INSERT_OR_UPDATE">
+<business_unit display_value=""/>
+<company display_value=""/>
+<cost_center display_value=""/>
+<dept_head display_value=""/>
+<description/>
+<head_count/>
+<id/>
+<name>Technology</name>
+<parent display_value=""/>
+<primary_contact display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:21:50</sys_created_on>
+<sys_id>21e77c10c35c171014d3b91ed40131ed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:21:50</sys_updated_on>
+</cmn_department>
+<cmn_department action="INSERT_OR_UPDATE">
+<business_unit display_value=""/>
+<company display_value=""/>
+<cost_center display_value=""/>
+<dept_head display_value="Natasha Ingram">46c5bf6ca9fe1981010713e3ac7d3384</dept_head>
+<description>Technology</description>
+<head_count/>
+<id>0120</id>
+<name>Technology</name>
+<parent display_value=""/>
+<primary_contact display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-08-26 18:23:12</sys_created_on>
+<sys_id>ee4164b5c7e51110a131093c95c260db</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-08-26 18:23:12</sys_updated_on>
+</cmn_department>
+<cmn_department action="INSERT_OR_UPDATE">
+<business_unit display_value=""/>
+<company display_value=""/>
+<cost_center display_value=""/>
+<dept_head display_value=""/>
+<description/>
+<head_count/>
+<id/>
+<name>Wealth Management</name>
+<parent display_value=""/>
+<primary_contact display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:21:50</sys_created_on>
+<sys_id>51e73c10c35c171014d3b91ed40131f4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:21:50</sys_updated_on>
+</cmn_department>
+</unload>

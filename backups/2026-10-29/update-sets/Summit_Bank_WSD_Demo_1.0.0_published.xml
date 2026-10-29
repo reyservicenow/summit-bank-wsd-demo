@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-10-29 17:51:40">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<application_name>Summit Bank WSD Demo</application_name>
+<application_scope>x_189579_wsddemo</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>TRIRIGA to ServiceNow WSD migration demo (fictional Summit Bank data)</description>
+<inserted/>
+<name>Summit Bank WSD Demo</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>4f3a7d64c358d71014d3b91ed40131f7</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>825ab5a4c358d71014d3b91ed4013165</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_189579_wsddemo_tririga_space_import_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sys_import_set_row" table="x_189579_wsddemo_tririga_space_import"><active>true</active><array>false</array><attributes>enforce_dot_walk_cross_scope_access=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_189579_wsddemo_tririga_space_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>100bc1d0c3d0571014d3b91ed40131bf</sys_id><sys_name>x_189579_wsddemo_tririga_space_import</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_dictionary_x_189579_wsddemo_tririga_space_import_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>1942413705</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>025ab5a4c358d71014d3b91ed4013167</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89d4f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>940bc1d0c4d057107a5340dba35247fa</update_guid>
+<update_guid_history>940bc1d0c4d057107a5340dba35247fa:1942413705</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_ffda0990c3d0571014d3b91ed40131cb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><application_runtime_policy>none</application_runtime_policy><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created/><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>Summit Bank WSD Demo</name><package_json/><package_resolver_version>1.0.0</package_resolver_version><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking/><scope>x_189579_wsddemo</scope><scoped_administration>false</scoped_administration><short_description>TRIRIGA to ServiceNow WSD migration demo (fictional Summit Bank data)</short_description><sn_managed>false</sn_managed><source>x_189579_wsddemo</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:44:44</sys_created_on><sys_id>ffda0990c3d0571014d3b91ed40131cb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:44:44</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app><sys_translated_text action="delete_multiple" query="documentkey=ffda0990c3d0571014d3b91ed40131cb"/></record_update>]]></payload>
+<payload_hash>-1608906948</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>0e5ab5a4c358d71014d3b91ed4013165</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89cf90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table/>
+<target_name>Summit Bank WSD Demo</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>44eacd90fad05710f05bd47e777d9b73</update_guid>
+<update_guid_history>44eacd90fad05710f05bd47e777d9b73:-1608906948</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_triorgname_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_triorgname" label="triOrgName" language="en" table="x_189579_wsddemo_tririga_space_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_triorgname</element><help/><hint/><label>triOrgName</label><language>en</language><name>x_189579_wsddemo_tririga_space_import</name><plural>triOrgNames</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>1c0bc1d0c3d0571014d3b91ed40131d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>triOrgName</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_triorgname_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-211395650</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>125ab5a4c358d71014d3b91ed401316c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89d8d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triOrgName</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_x_189579_wsddemo_tririga_space_import_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_189579_wsddemo_tririga_space_import" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_import_row</element><list_id display_value="x_189579_wsddemo_tririga_space_import" element="NULL" name="x_189579_wsddemo_tririga_space_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a40b05d0c3d0571014d3b91ed4013122</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:20</sys_created_on><sys_id>2c0b05d0c3d0571014d3b91ed4013130</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:20</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_import_set</element><list_id display_value="x_189579_wsddemo_tririga_space_import" element="NULL" name="x_189579_wsddemo_tririga_space_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a40b05d0c3d0571014d3b91ed4013122</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:20</sys_created_on><sys_id>2c0b05d0c3d0571014d3b91ed4013131</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:20</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_import_state</element><list_id display_value="x_189579_wsddemo_tririga_space_import" element="NULL" name="x_189579_wsddemo_tririga_space_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a40b05d0c3d0571014d3b91ed4013122</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:20</sys_created_on><sys_id>a00b05d0c3d0571014d3b91ed4013132</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:20</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_target_table</element><list_id display_value="x_189579_wsddemo_tririga_space_import" element="NULL" name="x_189579_wsddemo_tririga_space_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a40b05d0c3d0571014d3b91ed4013122</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:20</sys_created_on><sys_id>280b05d0c3d0571014d3b91ed4013132</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:20</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_target_sys_id</element><list_id display_value="x_189579_wsddemo_tririga_space_import" element="NULL" name="x_189579_wsddemo_tririga_space_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a40b05d0c3d0571014d3b91ed4013122</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:20</sys_created_on><sys_id>ac0b05d0c3d0571014d3b91ed4013132</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:20</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_row_error</element><list_id display_value="x_189579_wsddemo_tririga_space_import" element="NULL" name="x_189579_wsddemo_tririga_space_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a40b05d0c3d0571014d3b91ed4013122</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:20</sys_created_on><sys_id>240b05d0c3d0571014d3b91ed4013133</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:20</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_189579_wsddemo_tririga_space_import</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a40b05d0c3d0571014d3b91ed4013122</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_189579_wsddemo_tririga_space_import</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_ui_list_x_189579_wsddemo_tririga_space_import_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:20</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>-281655970</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>125ab5a4c358d71014d3b91ed4013171</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89edb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_trifloorname</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_trifloorname" table="x_189579_wsddemo_tririga_space_import"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true,import_attribute_name=triFloorName</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>triFloorName</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_trifloorname</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_189579_wsddemo_tririga_space_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>1c0bc1d0c3d0571014d3b91ed40131d7</sys_id><sys_name>triFloorName</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_trifloorname</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-2125991390</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>165ab5a4c358d71014d3b91ed4013168</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89d9a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triFloorName</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>940b05d008d057106ca0f2d318627d15</update_guid>
+<update_guid_history>940b05d008d057106ca0f2d318627d15:-2125991390</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_trispaceclass_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_trispaceclass" label="triSpaceClass" language="en" table="x_189579_wsddemo_tririga_space_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_trispaceclass</element><help/><hint/><label>triSpaceClass</label><language>en</language><name>x_189579_wsddemo_tririga_space_import</name><plural>triSpaceClass</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>180bc1d0c3d0571014d3b91ed40131ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>triSpaceClass</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_trispaceclass_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-54580889</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>165ab5a4c358d71014d3b91ed401316d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89d640000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triSpaceClass</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_trireservablebl</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_trireservablebl" table="x_189579_wsddemo_tririga_space_import"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true,import_attribute_name=triReservableBL</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>triReservableBL</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_trireservablebl</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_189579_wsddemo_tririga_space_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>d40bc1d0c3d0571014d3b91ed40131d5</sys_id><sys_name>triReservableBL</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_trireservablebl</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-788948338</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>1a5ab5a4c358d71014d3b91ed4013169</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89e8d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triReservableBL</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>d40b05d0dfd057105252769afbc8a412</update_guid>
+<update_guid_history>d40b05d0dfd057105252769afbc8a412:-788948338</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_package_dependency_m2m_980bc1d0c3d0571014d3b91ed40131ea</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m"><sys_package_dependency_m2m action="INSERT_OR_UPDATE"><dependency display_value="System Import Sets" source="com.glide.system_import_set">3f7d1904a52103108bb220b7a4d2124f</dependency><min_version>1.0.0</min_version><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>980bc1d0c3d0571014d3b91ed40131ea</sys_id><sys_mod_count>0</sys_mod_count><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on></sys_package_dependency_m2m></record_update>]]></payload>
+<payload_hash>-1936144724</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>1a5ab5a4c358d71014d3b91ed401316e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89d180000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table/>
+<target_name>System Import Sets.Summit Bank WSD Demo</target_name>
+<type>Package dependency</type>
+<update_domain>global</update_domain>
+<update_guid>273a31a49858d710708ab24d3598ce57</update_guid>
+<update_guid_history>273a31a49858d710708ab24d3598ce57:-1936144724</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_triareanu_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_triareanu" label="triAreaNU" language="en" table="x_189579_wsddemo_tririga_space_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_triareanu</element><help/><hint/><label>triAreaNU</label><language>en</language><name>x_189579_wsddemo_tririga_space_import</name><plural>triAreaNUs</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>d80bc1d0c3d0571014d3b91ed40131da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>triAreaNU</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_triareanu_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-484524238</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>1e5ab5a4c358d71014d3b91ed401316a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89e950000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triAreaNU</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_entry_841bc5d0c3d0571014d3b91ed401317f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Summit Bank - TRIRIGA Space to WSD Space"&gt;330b05d0c3d0571014d3b91ed4013162&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_trispaceid&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;x_189579_wsddemo_tririga_space_import&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-10-28 19:45:34&lt;/sys_created_on&gt;&lt;sys_id&gt;841bc5d0c3d0571014d3b91ed401317f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_trispaceid&lt;/sys_name&gt;&lt;sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Summit Bank WSD Demo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_841bc5d0c3d0571014d3b91ed401317f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-10-28 19:45:34&lt;/sys_updated_on&gt;&lt;target_field&gt;title&lt;/target_field&gt;&lt;target_table&gt;sn_wsd_core_space&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1522631650</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>1e5ab5a4c358d71014d3b91ed401316f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89f460000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table/>
+<target_name>u_trispaceid</target_name>
+<type>Field Map</type>
+<update_domain>global</update_domain>
+<update_guid>c81bc5d078d057105cf3470d2c4e8281</update_guid>
+<update_guid_history>c81bc5d078d057105cf3470d2c4e8281:1522631650</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_e40b05d0c3d0571014d3b91ed4013158</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><karuna_route/><link_type>LIST</link_type><map_page/><mobile_title>TRIRIGA Space Import</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_189579_wsddemo_tririga_space_import</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><route/><screen/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e40b05d0c3d0571014d3b91ed4013158</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TRIRIGA Space Import</sys_name><sys_overrides/><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_app_module_e40b05d0c3d0571014d3b91ed4013158</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:20</sys_updated_on><timeline_page/><title>TRIRIGA Space Import</title><uncancelable>false</uncancelable><ux_list/><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>1275464129</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>425ab5a4c358d71014d3b91ed4013166</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89ef40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>a40b05d00dd057101a074de9e14b365c</update_guid>
+<update_guid_history>a40b05d00dd057101a074de9e14b365c:1275464129</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_triareanu</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_triareanu" table="x_189579_wsddemo_tririga_space_import"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true,import_attribute_name=triAreaNU</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>triAreaNU</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_triareanu</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_189579_wsddemo_tririga_space_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>500bc1d0c3d0571014d3b91ed40131da</sys_id><sys_name>triAreaNU</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_triareanu</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>1004087623</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>465ab5a4c358d71014d3b91ed4013167</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89db80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triAreaNU</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>540b05d041d05710e9b1519063a48a18</update_guid>
+<update_guid_history>540b05d041d05710e9b1519063a48a18:1004087623</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_tribuildingname_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_tribuildingname" label="triBuildingName" language="en" table="x_189579_wsddemo_tririga_space_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_tribuildingname</element><help/><hint/><label>triBuildingName</label><language>en</language><name>x_189579_wsddemo_tririga_space_import</name><plural>triBuildingNames</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>540bc1d0c3d0571014d3b91ed40131df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>triBuildingName</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_tribuildingname_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>687244946</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>525ab5a4c358d71014d3b91ed401316b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89dd80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triBuildingName</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_entry_881bc5d0c3d0571014d3b91ed4013197</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Summit Bank - TRIRIGA Space to WSD Space"&gt;330b05d0c3d0571014d3b91ed4013162&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_triareanu&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;x_189579_wsddemo_tririga_space_import&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-10-28 19:45:34&lt;/sys_created_on&gt;&lt;sys_id&gt;881bc5d0c3d0571014d3b91ed4013197&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_triareanu&lt;/sys_name&gt;&lt;sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Summit Bank WSD Demo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_881bc5d0c3d0571014d3b91ed4013197&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-10-28 19:45:34&lt;/sys_updated_on&gt;&lt;target_field&gt;usable_size_sq_feet&lt;/target_field&gt;&lt;target_table&gt;sn_wsd_core_space&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2019088374</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>525ab5a4c358d71014d3b91ed4013170</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89f5d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table/>
+<target_name>u_triareanu</target_name>
+<type>Field Map</type>
+<update_domain>global</update_domain>
+<update_guid>cc1bc5d004d0571077937083a22d1499</update_guid>
+<update_guid_history>cc1bc5d004d0571077937083a22d1499:-2019088374</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_triprimaryoccupant_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_triprimaryoccupant" label="triPrimaryOccupant" language="en" table="x_189579_wsddemo_tririga_space_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_triprimaryoccupant</element><help/><hint/><label>triPrimaryOccupant</label><language>en</language><name>x_189579_wsddemo_tririga_space_import</name><plural>triPrimaryOccupants</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>100bc1d0c3d0571014d3b91ed40131dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>triPrimaryOccupant</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_triprimaryoccupant_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1315363614</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>565ab5a4c358d71014d3b91ed401316c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89d590000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triPrimaryOccupant</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_578a2514c3d4571014d3b91ed4013140</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="578a2514c3d4571014d3b91ed4013140" sys_domain="global" table="x_189579_wsddemo_tririga_space_import" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>9f8a2514c3d4571014d3b91ed40131aa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_tristatus</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>9b8a2514c3d4571014d3b91ed40131ac</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_trifloorname</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>1b8a2514c3d4571014d3b91ed40131ad</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_triareanu</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>978a2514c3d4571014d3b91ed40131ae</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_tripropertyname</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>178a2514c3d4571014d3b91ed40131af</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_triorgname</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>938a2514c3d4571014d3b91ed40131b0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_triprimaryoccupant</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>138a2514c3d4571014d3b91ed40131b1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>9f8a2514c3d4571014d3b91ed40131b1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_trispaceclass</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>1f8a2514c3d4571014d3b91ed40131b2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_trispaceid</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>9b8a2514c3d4571014d3b91ed40131b3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_trireservablebl</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>1b8a2514c3d4571014d3b91ed40131b4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_tribuildingname</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>978a2514c3d4571014d3b91ed40131b5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_tricapacitynu</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>178a2514c3d4571014d3b91ed40131b6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_id>938a2514c3d4571014d3b91ed40131b7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_189579_wsddemo_tririga_space_import" sys_domain="global" view="Default view">578a2514c3d4571014d3b91ed4013140</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_189579_wsddemo_tririga_space_import</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 22:03:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>578a2514c3d4571014d3b91ed4013140</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_189579_wsddemo_tririga_space_import</sys_name><sys_overrides/><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_ui_section_578a2514c3d4571014d3b91ed4013140</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 22:03:09</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>812640191</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>565ab5a4c358d71014d3b91ed4013171</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89fb80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>938a25144cd45710b3562fd6f85562bb</update_guid>
+<update_guid_history>938a25144cd45710b3562fd6f85562bb:812640191,d78a251450d45710c44634862519fd45:-1120702200</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_triorgname</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_triorgname" table="x_189579_wsddemo_tririga_space_import"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true,import_attribute_name=triOrgName</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>triOrgName</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_triorgname</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_189579_wsddemo_tririga_space_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>900bc1d0c3d0571014d3b91ed40131d3</sys_id><sys_name>triOrgName</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_triorgname</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1985693718</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>5a5ab5a4c358d71014d3b91ed4013168</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89e250000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triOrgName</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>180b05d027d05710dfea354f9e27280f</update_guid>
+<update_guid_history>180b05d027d05710dfea354f9e27280f:-1985693718</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_trispaceid_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_trispaceid" label="triSpaceID" language="en" table="x_189579_wsddemo_tririga_space_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_trispaceid</element><help/><hint/><label>triSpaceID</label><language>en</language><name>x_189579_wsddemo_tririga_space_import</name><plural>triSpaceIDs</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>5c0bc1d0c3d0571014d3b91ed40131cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>triSpaceID</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_trispaceid_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1328961894</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>5a5ab5a4c358d71014d3b91ed401316d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89df40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triSpaceID</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_trispaceclass</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_trispaceclass" table="x_189579_wsddemo_tririga_space_import"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true,import_attribute_name=triSpaceClass</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>triSpaceClass</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_trispaceclass</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_189579_wsddemo_tririga_space_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>9c0bc1d0c3d0571014d3b91ed40131c9</sys_id><sys_name>triSpaceClass</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_trispaceclass</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-246895991</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>5e5ab5a4c358d71014d3b91ed4013169</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89e6a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triSpaceClass</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>1c0b05d02fd05710ff3a248ac50ae503</update_guid>
+<update_guid_history>1c0b05d02fd05710ff3a248ac50ae503:-246895991</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_entry_041bc5d0c3d0571014d3b91ed4013187</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Summit Bank - TRIRIGA Space to WSD Space"&gt;330b05d0c3d0571014d3b91ed4013162&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_trispaceid&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;x_189579_wsddemo_tririga_space_import&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-10-28 19:45:34&lt;/sys_created_on&gt;&lt;sys_id&gt;041bc5d0c3d0571014d3b91ed4013187&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_trispaceid&lt;/sys_name&gt;&lt;sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Summit Bank WSD Demo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_041bc5d0c3d0571014d3b91ed4013187&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-10-28 19:45:34&lt;/sys_updated_on&gt;&lt;target_field&gt;name&lt;/target_field&gt;&lt;target_table&gt;sn_wsd_core_space&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1761068543</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>5e5ab5a4c358d71014d3b91ed401316e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89f070000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table/>
+<target_name>u_trispaceid</target_name>
+<type>Field Map</type>
+<update_domain>global</update_domain>
+<update_guid>481bc5d0b5d05710392f02e2ee8fde89</update_guid>
+<update_guid_history>481bc5d0b5d05710392f02e2ee8fde89:-1761068543</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_data_source_6aeacd90c3d0571014d3b91ed4013185</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_data_source"&gt;&lt;sys_data_source action="INSERT_OR_UPDATE"&gt;&lt;batch_size&gt;1000&lt;/batch_size&gt;&lt;category/&gt;&lt;connection_override_last_success_time/&gt;&lt;connection_timeout&gt;0&lt;/connection_timeout&gt;&lt;connection_url&gt;attachment://sys_data_source:6aeacd90c3d0571014d3b91ed4013185/&lt;/connection_url&gt;&lt;connection_url_parameters/&gt;&lt;csv_delimiter/&gt;&lt;data_in_single_column&gt;false&lt;/data_in_single_column&gt;&lt;data_loader&gt;&lt;![CDATA[(function loadData(import_set_table, data_source, import_log, last_success_import_time, partition_info) {
+
+ // Add your code here to insert data to import_set_table 
+
+})(import_set_table, data_source, import_log, last_success_import_time, partition_info);]]&gt;&lt;/data_loader&gt;&lt;database_name/&gt;&lt;database_port/&gt;&lt;discard_arrays&gt;true&lt;/discard_arrays&gt;&lt;enable_parallel_loading&gt;false&lt;/enable_parallel_loading&gt;&lt;expand_node_children&gt;false&lt;/expand_node_children&gt;&lt;file_path/&gt;&lt;file_retrieval_method&gt;Attachment&lt;/file_retrieval_method&gt;&lt;format&gt;CSV&lt;/format&gt;&lt;glide_keystore&gt;false&lt;/glide_keystore&gt;&lt;header_row&gt;1&lt;/header_row&gt;&lt;import_connection_alias/&gt;&lt;import_set_table_label&gt;TRIRIGA Space Import&lt;/import_set_table_label&gt;&lt;import_set_table_name&gt;x_189579_wsddemo_tririga_space_import&lt;/import_set_table_name&gt;&lt;instance_name/&gt;&lt;jdbc_password/&gt;&lt;jdbc_server/&gt;&lt;jdbc_user_name/&gt;&lt;jpath_root_node/&gt;&lt;last_run_database_field/&gt;&lt;last_run_datetime/&gt;&lt;last_success_import_time/&gt;&lt;ldap_target/&gt;&lt;ldapprobe_result_set_rows&gt;200&lt;/ldapprobe_result_set_rows&gt;&lt;limit/&gt;&lt;maximum_rows/&gt;&lt;mid_server/&gt;&lt;name&gt;Summit Bank - TRIRIGA Space Export&lt;/name&gt;&lt;offset&gt;0&lt;/offset&gt;&lt;oracle_port&gt;1521&lt;/oracle_port&gt;&lt;oracle_sid&gt;orcl&lt;/oracle_sid&gt;&lt;parallel_loading_script&gt;&lt;![CDATA[(function loadTasks(parallel_job_loader, data_source, import_log, last_success_import_time) {
+
+	// Invoke third party API, create partitions and insert partitions info in parallel job table
+
+})(parallel_job_loader, data_source, import_log, last_success_import_time);]]&gt;&lt;/parallel_loading_script&gt;&lt;parsing_script&gt;&lt;![CDATA[// The input value can be accessed through the variables named "line", "lineNumber" and "result"// The function uses result variable to return parse result back. (function(line,lineNumber,result) {	// add code here})(line,lineNumber,result);]]&gt;&lt;/parsing_script&gt;&lt;properties/&gt;&lt;query&gt;All Rows from Table&lt;/query&gt;&lt;query_timeout&gt;0&lt;/query_timeout&gt;&lt;request_action/&gt;&lt;scp_authentication&gt;Username and Password&lt;/scp_authentication&gt;&lt;scp_password/&gt;&lt;scp_port/&gt;&lt;scp_server/&gt;&lt;scp_user_name/&gt;&lt;sheet_name&gt;1&lt;/sheet_name&gt;&lt;sheet_number&gt;1&lt;/sheet_number&gt;&lt;sql_statement/&gt;&lt;ssh_keyfile_path/&gt;&lt;support_pagination&gt;false&lt;/support_pagination&gt;&lt;sys_class_name&gt;sys_data_source&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-10-28 19:44:55&lt;/sys_created_on&gt;&lt;sys_id&gt;6aeacd90c3d0571014d3b91ed4013185&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Summit Bank - TRIRIGA Space Export&lt;/sys_name&gt;&lt;sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Summit Bank WSD Demo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_data_source_6aeacd90c3d0571014d3b91ed4013185&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-10-28 19:44:55&lt;/sys_updated_on&gt;&lt;table_name/&gt;&lt;type&gt;File&lt;/type&gt;&lt;use_batch_import&gt;false&lt;/use_batch_import&gt;&lt;use_import_connection_alias&gt;false&lt;/use_import_connection_alias&gt;&lt;use_integrated_authentication&gt;false&lt;/use_integrated_authentication&gt;&lt;use_last_run_datetime&gt;false&lt;/use_last_run_datetime&gt;&lt;xpath_root_node/&gt;&lt;zipped&gt;false&lt;/zipped&gt;&lt;/sys_data_source&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1655271257</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>865ab5a4c358d71014d3b91ed4013166</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89d3f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table/>
+<target_name>Summit Bank - TRIRIGA Space Export</target_name>
+<type>Data Source</type>
+<update_domain>global</update_domain>
+<update_guid>22ea01d03fd057109b0369d82bff52ad</update_guid>
+<update_guid_history>22ea01d03fd057109b0369d82bff52ad:-1655271257</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_trispaceid</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_trispaceid" table="x_189579_wsddemo_tririga_space_import"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true,import_attribute_name=triSpaceID</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>triSpaceID</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_trispaceid</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_189579_wsddemo_tririga_space_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>d00bc1d0c3d0571014d3b91ed40131cc</sys_id><sys_name>triSpaceID</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_trispaceid</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>182173216</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>925ab5a4c358d71014d3b91ed401316a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89e770000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triSpaceID</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>d80b05d01dd05710668a6f08abefaa06</update_guid>
+<update_guid_history>d80b05d01dd05710668a6f08abefaa06:182173216</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_entry_441bc5d0c3d0571014d3b91ed4013183</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;true&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Summit Bank - TRIRIGA Space to WSD Space"&gt;330b05d0c3d0571014d3b91ed4013162&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;[Script]&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) { return 'TRIRIGA:' + source.getValue('u_trispaceid'); })(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;x_189579_wsddemo_tririga_space_import&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-10-28 19:45:34&lt;/sys_created_on&gt;&lt;sys_id&gt;441bc5d0c3d0571014d3b91ed4013183&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;[Script]&lt;/sys_name&gt;&lt;sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Summit Bank WSD Demo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_441bc5d0c3d0571014d3b91ed4013183&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-10-28 19:45:34&lt;/sys_updated_on&gt;&lt;target_field&gt;external_id&lt;/target_field&gt;&lt;target_table&gt;sn_wsd_core_space&lt;/target_table&gt;&lt;use_source_script&gt;true&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2100608749</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>925ab5a4c358d71014d3b91ed401316f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89f270000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table/>
+<target_name>[Script]</target_name>
+<type>Field Map</type>
+<update_domain>global</update_domain>
+<update_guid>881bc5d000d057100a2faf1b924b5185</update_guid>
+<update_guid_history>881bc5d000d057100a2faf1b924b5185:2100608749</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_tricapacitynu_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_tricapacitynu" label="triCapacityNU" language="en" table="x_189579_wsddemo_tririga_space_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_tricapacitynu</element><help/><hint/><label>triCapacityNU</label><language>en</language><name>x_189579_wsddemo_tririga_space_import</name><plural>triCapacityNUs</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>500bc1d0c3d0571014d3b91ed40131c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>triCapacityNU</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_tricapacitynu_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>55072466</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>965ab5a4c358d71014d3b91ed401316b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89da20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triCapacityNU</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_map_330b05d0c3d0571014d3b91ed4013162</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_map"&gt;&lt;sys_transform_map action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;false&lt;/copy_empty_fields&gt;&lt;create_new_record_on_empty_coalesce_fields&gt;false&lt;/create_new_record_on_empty_coalesce_fields&gt;&lt;enforce_mandatory_fields&gt;No&lt;/enforce_mandatory_fields&gt;&lt;name&gt;Summit Bank - TRIRIGA Space to WSD Space&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;run_business_rules&gt;true&lt;/run_business_rules&gt;&lt;run_script&gt;true&lt;/run_script&gt;&lt;script&gt;&lt;![CDATA[(function runTransformScript(source, map, log, target) {
+  // TRIRIGA -&gt; WSD: build the location hierarchy on the fly and enrich each space
+  function ensure(table, name, fields) {
+    var g = new GlideRecord(table);
+    g.addQuery('name', name);
+    for (var k in fields) g.addQuery(k, fields[k]);
+    g.query();
+    if (g.next()) return g.getUniqueValue();
+    g.initialize();
+    g.setValue('name', name);
+    g.setValue('title', name);
+    for (var f in fields) g.setValue(f, fields[f]);
+    g.setValue('wsd_source', 'TRIRIGA');
+    g.setValue('active', true);
+    g.setValue('time_zone', 'US/Eastern'); g.setValue('city', 'Charlotte'); g.setValue('state', 'NC'); g.setValue('country', 'USA');
+    return g.insert();
+  }
+  var site = ensure('sn_wsd_core_site', 'Charlotte, NC', {});
+  var campus = ensure('sn_wsd_core_campus', source.getValue('u_tripropertyname'), {site: site, parent: site});
+  var building = ensure('sn_wsd_core_building', source.getValue('u_tribuildingname'), {site: site, campus: campus, parent: campus});
+  var floor = ensure('sn_wsd_core_floor', source.getValue('u_tribuildingname') + ' - ' + source.getValue('u_trifloorname'), {site: site, campus: campus, building: building, parent: building});
+
+  var typeMap = {'Desk': 'Workspace/Desk', 'Meeting room': 'Room', 'Focus room': 'Room', 'Office': 'Room', 'Break room': 'Café'};
+  var st = new GlideRecord('sn_wsd_core_space_type');
+  if (st.get('name', typeMap[source.getValue('u_trispaceclass')] || 'Miscellaneous')) target.location_type = st.getUniqueValue();
+
+  var dept = new GlideRecord('cmn_department');
+  var org = source.getValue('u_triorgname');
+  if (org) { if (!dept.get('name', org)) { dept.initialize(); dept.name = org; dept.insert(); } target.department = dept.getUniqueValue(); }
+
+  target.site = site; target.campus = campus; target.building = building; target.floor = floor; target.parent = floor;
+  target.wsd_source = 'TRIRIGA';
+  target.is_reservable = (source.getValue('u_trireservablebl') == 'TRUE');
+  target.wsd_assignment_type = (source.getValue('u_trireservablebl') == 'TRUE') ? 'flex' : 'permanent';
+  target.active = (source.getValue('u_tristatus') == 'Active');
+  var occ = source.getValue('u_triprimaryoccupant');
+  target.description = 'Migrated from TRIRIGA (' + source.getValue('u_trispaceclass') + ')' + (occ ? '. Primary occupant: ' + occ : '');
+})(source, map, log, target);]]&gt;&lt;/script&gt;&lt;source_table&gt;x_189579_wsddemo_tririga_space_import&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_map&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-10-28 19:45:34&lt;/sys_created_on&gt;&lt;sys_id&gt;330b05d0c3d0571014d3b91ed4013162&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Summit Bank - TRIRIGA Space to WSD Space&lt;/sys_name&gt;&lt;sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Summit Bank WSD Demo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_map_330b05d0c3d0571014d3b91ed4013162&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-10-28 19:45:34&lt;/sys_updated_on&gt;&lt;target_table&gt;sn_wsd_core_space&lt;/target_table&gt;&lt;/sys_transform_map&gt;&lt;/record_update&gt;</payload>
+<payload_hash>197460025</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>965ab5a4c358d71014d3b91ed4013170</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89f160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table/>
+<target_name>Summit Bank - TRIRIGA Space to WSD Space</target_name>
+<type>Table Transform Map</type>
+<update_domain>global</update_domain>
+<update_guid>c41bc5d032d057109b8d2f154c1bc876</update_guid>
+<update_guid_history>c41bc5d032d057109b8d2f154c1bc876:197460025</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_tribuildingname</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_tribuildingname" table="x_189579_wsddemo_tririga_space_import"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true,import_attribute_name=triBuildingName</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>triBuildingName</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_tribuildingname</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_189579_wsddemo_tririga_space_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>d80bc1d0c3d0571014d3b91ed40131de</sys_id><sys_name>triBuildingName</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_tribuildingname</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1945829220</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>9a5ab5a4c358d71014d3b91ed4013167</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89ea30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triBuildingName</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>e00b05d0bcd057106536573aa412a21e</update_guid>
+<update_guid_history>e00b05d0bcd057106536573aa412a21e:-1945829220</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_tripropertyname_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_tripropertyname" label="triPropertyName" language="en" table="x_189579_wsddemo_tririga_space_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_tripropertyname</element><help/><hint/><label>triPropertyName</label><language>en</language><name>x_189579_wsddemo_tririga_space_import</name><plural>triPropertyNames</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>d40bc1d0c3d0571014d3b91ed40131d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>triPropertyName</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_tripropertyname_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>2051004914</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>9a5ab5a4c358d71014d3b91ed401316c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89e7f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triPropertyName</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_500bc1d0c3d0571014d3b91ed40131f7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_189579_wsddemo_tririga_space_import</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>500bc1d0c3d0571014d3b91ed40131f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_189579_wsddemo_tririga_space_import</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>ua_table_licensing_config_500bc1d0c3d0571014d3b91ed40131f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>2089404901</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>9a5ab5a4c358d71014d3b91ed4013171</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89dcc0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table/>
+<target_name>x_189579_wsddemo_tririga_space_import</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_triprimaryoccupant</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_triprimaryoccupant" table="x_189579_wsddemo_tririga_space_import"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true,import_attribute_name=triPrimaryOccupant</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>triPrimaryOccupant</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_triprimaryoccupant</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_189579_wsddemo_tririga_space_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>940bc1d0c3d0571014d3b91ed40131dc</sys_id><sys_name>triPrimaryOccupant</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_triprimaryoccupant</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-555637798</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>9e5ab5a4c358d71014d3b91ed4013168</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89e410000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triPrimaryOccupant</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>140b05d07dd05710dc2078e7aef16f1b</update_guid>
+<update_guid_history>140b05d07dd05710dc2078e7aef16f1b:-555637798</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_tristatus_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_tristatus" label="triStatus" language="en" table="x_189579_wsddemo_tririga_space_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_tristatus</element><help/><hint/><label>triStatus</label><language>en</language><name>x_189579_wsddemo_tririga_space_import</name><plural>triStatus</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>900bc1d0c3d0571014d3b91ed40131cf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>triStatus</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_tristatus_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-335040345</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>9e5ab5a4c358d71014d3b91ed401316d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89e140000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triStatus</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sn_wsd_rsv_reservable_module_f05b0514c3d0571014d3b91ed401314f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_wsd_rsv_reservable_module"><sn_wsd_rsv_reservable_module action="INSERT_OR_UPDATE"><active>true</active><active_from/><additional_details_record_producer/><all_day>10</all_day><all_day_meaning>office_hours</all_day_meaning><allow_invitees>false</allow_invitees><allow_multi_building>true</allow_multi_building><allow_recurring>false</allow_recurring><allow_reservation_message>false</allow_reservation_message><apply_to_shift>false</apply_to_shift><auto_resolve_conflict>false</auto_resolve_conflict><available_in>advanced_reservation,quick_reservation</available_in><available_schedule/><cancel_rsv_exceed_check_in>true</cancel_rsv_exceed_check_in><checkin_before_start_minutes>30</checkin_before_start_minutes><default_path_in_edit>browse_all</default_path_in_edit><description/><display_number_of_attendees>false</display_number_of_attendees><display_on_behalf_of>false</display_on_behalf_of><display_path_in_edit>false</display_path_in_edit><display_sensitivity>false</display_sensitivity><enable_allocation_duration_check>false</enable_allocation_duration_check><enable_browse_by_area>true</enable_browse_by_area><enable_browse_by_neighborhood>true</enable_browse_by_neighborhood><enable_browse_favorites>true</enable_browse_favorites><enable_browse_near_a_person>true</enable_browse_near_a_person><enable_facet_filter>false</enable_facet_filter><enable_floor_search>false</enable_floor_search><enable_group_reservations>false</enable_group_reservations><enable_ical_generation>false</enable_ical_generation><enable_reservation_privacy>false</enable_reservation_privacy><enable_restricted_neighborhood_rules>false</enable_restricted_neighborhood_rules><font_awesome_icon>fa-desktop</font_awesome_icon><image>beaf39c41baa7410e7fb6466624bcb47</image><inline_title>desk</inline_title><max_days_for_browse_near_a_person>7</max_days_for_browse_near_a_person><max_days_in_future>90</max_days_in_future><max_duration/><max_occurrences>90</max_occurrences><min_duration/><name>meeting_rooms</name><order>100</order><override_approval_policy>never_required</override_approval_policy><override_checkin_policy>always_required</override_checkin_policy><require_cancel_notes>false</require_cancel_notes><require_cc_dept_check>false</require_cc_dept_check><require_cost_center>false</require_cost_center><require_subject>false</require_subject><reservable_container_field/><reservable_filter table="sn_wsd_core_space">active=true^is_reservable=true^location_type=20713b83eb512010b89bfdfc9c522899^building.is_reservable=true^floor.is_reservable=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="false" field="is_reservable" goto="false" newquery="false" operator="=" or="false" value="true"/><item display_table="sn_wsd_core_space_type" display_value="Room" endquery="false" field="location_type" goto="false" newquery="false" operator="=" or="false" value="20713b83eb512010b89bfdfc9c522899"/><item endquery="false" field="building.is_reservable" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="false" field="floor.is_reservable" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></reservable_filter><reservable_quantity_field/><reservable_table>sn_wsd_core_space</reservable_table><reservable_type>location</reservable_type><rsv_span>1</rsv_span><search_limit>10000</search_limit><selection_type>unit</selection_type><short_description>Book meeting and focus rooms</short_description><show_as>busy</show_as><show_map_view>false</show_map_view><sys_class_name>sn_wsd_rsv_reservable_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:46:43</sys_created_on><sys_domain>global</sys_domain><sys_id>f05b0514c3d0571014d3b91ed401314f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>meeting_rooms</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sn_wsd_rsv_reservable_module_f05b0514c3d0571014d3b91ed401314f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:46:43</sys_updated_on><title>Meeting rooms</title><virtual_meeting_provider/><waitlist_enabled>false</waitlist_enabled><warn_employee_for_duplicate_reservation>false</warn_employee_for_duplicate_reservation></sn_wsd_rsv_reservable_module></record_update>]]></payload>
+<payload_hash>-534023010</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>c65ab5a4c358d71014d3b91ed4013165</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89f800000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table/>
+<target_name>meeting_rooms</target_name>
+<type>Reservable Module</type>
+<update_domain>global</update_domain>
+<update_guid>b05b4514d4d05710ebfe27722b5b982d</update_guid>
+<update_guid_history>b05b4514d4d05710ebfe27722b5b982d:-534023010</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_980bc1d0c3d0571014d3b91ed40131ba</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><filter_extension/><is_data_interface>false</is_data_interface><is_df_table>false</is_df_table><is_extendable>false</is_extendable><label>TRIRIGA Space Import</label><live_feed_enabled>false</live_feed_enabled><name>x_189579_wsddemo_tririga_space_import</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">dbad5508a52103108bb220b7a4d21269</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>980bc1d0c3d0571014d3b91ed40131ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Wsddemo Tririga Space Import</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_db_object_980bc1d0c3d0571014d3b91ed40131ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>194141426</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>ca5ab5a4c358d71014d3b91ed4013166</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89e530000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>1c0bc1d0a1d05710294da5ac39a432fd</update_guid>
+<update_guid_history>1c0bc1d0a1d05710294da5ac39a432fd:194141426</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_tripropertyname</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_tripropertyname" table="x_189579_wsddemo_tririga_space_import"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true,import_attribute_name=triPropertyName</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>triPropertyName</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_tripropertyname</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_189579_wsddemo_tririga_space_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>5c0bc1d0c3d0571014d3b91ed40131d0</sys_id><sys_name>triPropertyName</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_tripropertyname</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>1744627483</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>d25ab5a4c358d71014d3b91ed4013169</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89e0a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triPropertyName</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>580b05d02dd057107736f0078e58c20c</update_guid>
+<update_guid_history>580b05d02dd057107736f0078e58c20c:1744627483</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_189579_wsddemo_tririga_space_import__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="TRIRIGA Space Import" language="en" table="x_189579_wsddemo_tririga_space_import"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>TRIRIGA Space Import</label><language>en</language><name>x_189579_wsddemo_tririga_space_import</name><plural>TRIRIGA Space Imports</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>1c0bc1d0c3d0571014d3b91ed40131c2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TRIRIGA Space Import</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_documentation_x_189579_wsddemo_tririga_space_import__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1567333024</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>d25ab5a4c358d71014d3b91ed401316e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89d7d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_tristatus</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_tristatus" table="x_189579_wsddemo_tririga_space_import"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true,import_attribute_name=triStatus</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>triStatus</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_tristatus</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_189579_wsddemo_tririga_space_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>180bc1d0c3d0571014d3b91ed40131ce</sys_id><sys_name>triStatus</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_tristatus</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1036297943</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>d65ab5a4c358d71014d3b91ed401316a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89d750000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triStatus</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>980b05d018d0571002c8abdb5d613b09</update_guid>
+<update_guid_history>980b05d018d0571002c8abdb5d613b09:-1036297943</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_entry_481bc5d0c3d0571014d3b91ed4013178</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Summit Bank - TRIRIGA Space to WSD Space"&gt;330b05d0c3d0571014d3b91ed4013162&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_tricapacitynu&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;x_189579_wsddemo_tririga_space_import&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-10-28 19:45:34&lt;/sys_created_on&gt;&lt;sys_id&gt;481bc5d0c3d0571014d3b91ed4013178&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_tricapacitynu&lt;/sys_name&gt;&lt;sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Summit Bank WSD Demo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_481bc5d0c3d0571014d3b91ed4013178&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-10-28 19:45:34&lt;/sys_updated_on&gt;&lt;target_field&gt;capacity&lt;/target_field&gt;&lt;target_table&gt;sn_wsd_core_space&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-834475606</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>d65ab5a4c358d71014d3b91ed401316f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89f350000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table/>
+<target_name>u_tricapacitynu</target_name>
+<type>Field Map</type>
+<update_domain>global</update_domain>
+<update_guid>881bc5d095d057101fb9af6cdb212a7d</update_guid>
+<update_guid_history>881bc5d095d057101fb9af6cdb212a7d:-834475606</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_trifloorname_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_trifloorname" label="triFloorName" language="en" table="x_189579_wsddemo_tririga_space_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_trifloorname</element><help/><hint/><label>triFloorName</label><language>en</language><name>x_189579_wsddemo_tririga_space_import</name><plural>triFloorNames</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>940bc1d0c3d0571014d3b91ed40131d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>triFloorName</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_trifloorname_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>928317038</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>da5ab5a4c358d71014d3b91ed401316b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89e300000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triFloorName</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_transform_script_cc1bc5d0c3d0571014d3b91ed401319b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_script"&gt;&lt;sys_transform_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;map display_value="Summit Bank - TRIRIGA Space to WSD Space"&gt;330b05d0c3d0571014d3b91ed4013162&lt;/map&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[(function runTransformScript(source, map, log, target) {
+  // Carry TRIRIGA primary occupants over to WSD: each employee has ONE workplace profile,
+  // so the occupant's profile is pointed at the migrated space.
+  var occ = source.getValue('u_triprimaryoccupant');
+  if (!occ) return;
+  var u = new GlideRecord('sys_user');
+  if (!u.get('user_name', occ)) { log.warn('TRIRIGA occupant not found in ServiceNow: ' + occ); return; }
+  var p = new GlideRecord('sn_wsd_core_workplace_profile');
+  p.addQuery('employee', u.getUniqueValue());
+  p.query();
+  if (p.next()) {
+    if (p.getValue('workplace_location') &amp;&amp; p.getValue('workplace_location') != target.getUniqueValue())
+      log.warn('Occupant ' + occ + ' already had a different primary location; WSD keeps one per person. Moved to ' + target.getValue('name') + ' - review for duplicate TRIRIGA assignments.');
+    p.workplace_location = target.getUniqueValue(); p.active = true; p.update();
+  } else {
+    p.initialize(); p.employee = u.getUniqueValue(); p.workplace_location = target.getUniqueValue(); p.active = true; p.insert();
+  }
+})(source, map, log, target);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_transform_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-10-28 19:45:34&lt;/sys_created_on&gt;&lt;sys_id&gt;cc1bc5d0c3d0571014d3b91ed401319b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;onAfter&lt;/sys_name&gt;&lt;sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Summit Bank WSD Demo"&gt;ffda0990c3d0571014d3b91ed40131cb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_script_cc1bc5d0c3d0571014d3b91ed401319b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-10-28 19:45:34&lt;/sys_updated_on&gt;&lt;when&gt;onAfter&lt;/when&gt;&lt;/sys_transform_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1273501288</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>da5ab5a4c358d71014d3b91ed4013170</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89f6a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table/>
+<target_name>onAfter</target_name>
+<type>Transform Script</type>
+<update_domain>global</update_domain>
+<update_guid>c41bc5d015d05710bf3c681a8bc3dc9f</update_guid>
+<update_guid_history>c41bc5d015d05710bf3c681a8bc3dc9f:-1273501288</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_tricapacitynu</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_tricapacitynu" table="x_189579_wsddemo_tririga_space_import"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true,import_attribute_name=triCapacityNU</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>triCapacityNU</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_tricapacitynu</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_189579_wsddemo_tririga_space_import</name><next_element/><primary>false</primary><read_only>false</read_only><read_only_option/><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>dc0bc1d0c3d0571014d3b91ed40131c6</sys_id><sys_name>triCapacityNU</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_dictionary_x_189579_wsddemo_tririga_space_import_u_tricapacitynu</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>120888314</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>de5ab5a4c358d71014d3b91ed4013167</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89ead0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triCapacityNU</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>5c0b05d063d057106235baf8a7780d00</update_guid>
+<update_guid_history>5c0b05d063d057106235baf8a7780d00:120888314</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_trireservablebl_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_trireservablebl" label="triReservableBL" language="en" table="x_189579_wsddemo_tririga_space_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_trireservablebl</element><help/><hint/><label>triReservableBL</label><language>en</language><name>x_189579_wsddemo_tririga_space_import</name><plural>triReservableBLs</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-28 19:45:19</sys_created_on><sys_id>500bc1d0c3d0571014d3b91ed40131d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>triReservableBL</sys_name><sys_package display_value="Summit Bank WSD Demo" source="x_189579_wsddemo">ffda0990c3d0571014d3b91ed40131cb</sys_package><sys_policy/><sys_scope display_value="Summit Bank WSD Demo">ffda0990c3d0571014d3b91ed40131cb</sys_scope><sys_update_name>sys_documentation_x_189579_wsddemo_tririga_space_import_u_trireservablebl_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-28 19:45:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1916365266</payload_hash>
+<remote_update_set display_value="Summit Bank WSD Demo">825ab5a4c358d71014d3b91ed4013165</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-29 17:50:38</sys_created_on>
+<sys_id>de5ab5a4c358d71014d3b91ed401316c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a188c89dad0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-29 17:50:38</sys_updated_on>
+<table>x_189579_wsddemo_tririga_space_import</table>
+<target_name>TRIRIGA Space Import.triReservableBL</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

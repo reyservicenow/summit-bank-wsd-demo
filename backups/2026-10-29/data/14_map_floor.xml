@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-29 17:51:03">
+<sn_map_core_floor action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value="Summit Tower">9cf44154c390571014d3b91ed4013184</building>
+<cmn_location display_value="Summit Tower - Floor 10">08483858c35c171014d3b91ed401316a</cmn_location>
+<description/>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8433,35.227],[-80.84296499999999,35.227],[-80.84296499999999,35.227150699999996],[-80.8433,35.227150699999996],[-80.8433,35.227]]]}</geometry>
+<name>Floor 10</name>
+<number>10</number>
+<short_title>10</short_title>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:18:50</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>dcf44154c390571014d3b91ed4013185</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:18:50</sys_updated_on>
+<title>Floor 10</title>
+</sn_map_core_floor>
+<sn_map_core_floor action="INSERT_OR_UPDATE">
+<active>true</active>
+<building display_value="Summit Tower">9cf44154c390571014d3b91ed4013184</building>
+<cmn_location display_value="Summit Tower - Floor 11">7c483c58c35c171014d3b91ed40131f9</cmn_location>
+<description/>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8433,35.227],[-80.842965,35.227],[-80.842965,35.2271507],[-80.8433,35.2271507],[-80.8433,35.227]]]}</geometry>
+<name>Floor 11</name>
+<number>11</number>
+<short_title>11</short_title>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:29:33</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>99670dd8c390571014d3b91ed4013128</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:29:33</sys_updated_on>
+<title>Floor 11</title>
+</sn_map_core_floor>
+</unload>

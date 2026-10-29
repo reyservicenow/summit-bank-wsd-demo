@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-29 17:51:03">
+<sn_map_core_autocad_source_text action="INSERT_OR_UPDATE">
+<attributes>["Text","autocad_entity_handle","autocad_source_name","autocad_source_floor_number"]</attributes>
+<autocad_source display_value="Summit Tower Floor 10 (TRIRIGA CAD)">77354954c390571014d3b91ed4013196</autocad_source>
+<color>#000000</color>
+<count>23</count>
+<geometry_layer display_value="A-Area-Space">d0e509d4c390571014d3b91ed4013135</geometry_layer>
+<import>true</import>
+<is_visible>true</is_visible>
+<name>A-Area-Iden</name>
+<name_template>{{Text}}</name_template>
+<place_type_template>Desks</place_type_template>
+<preview_svg>d4e509d4c390571014d3b91ed401313c</preview_svg>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:22:55</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>14e509d4c390571014d3b91ed401313b</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:23:47</sys_updated_on>
+<title_template>{{Text}}</title_template>
+</sn_map_core_autocad_source_text>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes>700000</chunk_size_bytes>
+<compressed>true</compressed>
+<content_type>image/svg+xml</content_type>
+<file_name>preview.svg</file_name>
+<hash>8b0bebc453e47cac031fa1078ce73ec361681cc57454a3643ae8d7b2803c5c9e</hash>
+<image_height/>
+<image_width/>
+<size_bytes>2382</size_bytes>
+<size_compressed>480</size_compressed>
+<state>available</state>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:22:55</sys_created_on>
+<sys_id>d4e509d4c390571014d3b91ed401313c</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 19:22:55</sys_updated_on>
+<table_name>sn_map_core_autocad_source_text</table_name>
+<table_sys_id>14e509d4c390571014d3b91ed401313b</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAA/w==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="preview.svg" sys_id="d4e509d4c390571014d3b91ed401313c">d4e509d4c390571014d3b91ed401313c</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:22:55</sys_created_on>
+<sys_id>18e509d4c390571014d3b91ed401313c</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>rZbbbpwwEIZfxXVvF2xzakKASNmNokpNGylpq/bOBXdxSwyy3cA2yrtnIGmzW/VykECe4Z/PngMSxel025E7ZZ3uTUlFyClxXppGdr1RJTU9Pa2KV5sP65svV+fE3W3J1cezd2/XhAaMfY7XjG1uNuT60wURoWDs/D0ltPV+yBkbxzEc47C3W3Zh5dDq2jEQslkIQQxgQoSNb2hVzGA4iXHlf6IjzvmspvsHFWBpNZ71U0k54USAiKQpnH/UjW9BAo5hoqRVetv6ksI7MGErv+sU8bsB0vNq8qx2jlbht942yt432g2d3OUG0j/5rrsu91YaN0irjD9x3vY/Vb61cve8Dpbd8mSY/jga6VppQZEnDySsu9+BDCBaBrpR5v6Z8Jov1yFE8BdKp42q5ZDb/pdp9p0/em2evA8FW3KpikH6ljQlveQryHIpxcsCirPc4PhKSd1JB0V+ypayvVgR81UScXIbCNBLsRJzVeEZHZoB2H85/6R3AIwENvAYGRi/QQYmKTIwxW5Kht2UDLsp8xzGHHkOcYHHyMB5DlGB8xyiAlPspmTYTcmwmyIAKFLkLqMCU44MPErgW8as4QyMjpCBIsMcmxSnhvP/SfUI5QUkQ04JAAA=</data>
+<length>628</length>
+<position>1</position>
+<sys_attachment display_value="preview.svg" sys_id="d4e509d4c390571014d3b91ed401313c">d4e509d4c390571014d3b91ed401313c</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:22:55</sys_created_on>
+<sys_id>d8e509d4c390571014d3b91ed401313c</sys_id>
+</sys_attachment_doc>
+<sn_map_core_autocad_source_text action="INSERT_OR_UPDATE">
+<attributes>["Text","autocad_entity_handle","autocad_source_name","autocad_source_floor_number"]</attributes>
+<autocad_source display_value="Summit Tower Floor 11 (TRIRIGA CAD)">55674dd8c390571014d3b91ed4013136</autocad_source>
+<color>#000000</color>
+<count>23</count>
+<geometry_layer display_value="A-Area-Space">f9674dd8c390571014d3b91ed40131a6</geometry_layer>
+<import>true</import>
+<is_visible>true</is_visible>
+<name>A-Area-Iden</name>
+<name_template>{{Text}}</name_template>
+<place_type_template>Desks</place_type_template>
+<preview_svg>71674dd8c390571014d3b91ed40131ad</preview_svg>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:29:35</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>b9674dd8c390571014d3b91ed40131ac</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 19:29:35</sys_updated_on>
+<title_template>{{Text}}</title_template>
+</sn_map_core_autocad_source_text>
+<sys_attachment action="INSERT_OR_UPDATE">
+<average_image_color/>
+<chunk_size_bytes>700000</chunk_size_bytes>
+<compressed>true</compressed>
+<content_type>image/svg+xml</content_type>
+<file_name>preview.svg</file_name>
+<hash>8b0bebc453e47cac031fa1078ce73ec361681cc57454a3643ae8d7b2803c5c9e</hash>
+<image_height/>
+<image_width/>
+<size_bytes>2382</size_bytes>
+<size_compressed>480</size_compressed>
+<state>available</state>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:29:35</sys_created_on>
+<sys_id>71674dd8c390571014d3b91ed40131ad</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-10-28 19:29:35</sys_updated_on>
+<table_name>sn_map_core_autocad_source_text</table_name>
+<table_sys_id>b9674dd8c390571014d3b91ed40131ac</table_sys_id>
+</sys_attachment>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>H4sIAAAAAAAA/w==</data>
+<length>16</length>
+<position>0</position>
+<sys_attachment display_value="preview.svg" sys_id="71674dd8c390571014d3b91ed40131ad">71674dd8c390571014d3b91ed40131ad</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:29:35</sys_created_on>
+<sys_id>b1674dd8c390571014d3b91ed40131ad</sys_id>
+</sys_attachment_doc>
+<sys_attachment_doc action="INSERT_OR_UPDATE">
+<data>rZbbbpwwEIZfxXVvF2xzakKASNmNokpNGylpq/bOBXdxSwyy3cA2yrtnIGmzW/VykECe4Z/PngMSxel025E7ZZ3uTUlFyClxXppGdr1RJTU9Pa2KV5sP65svV+fE3W3J1cezd2/XhAaMfY7XjG1uNuT60wURoWDs/D0ltPV+yBkbxzEc47C3W3Zh5dDq2jEQslkIQQxgQoSNb2hVzGA4iXHlf6IjzvmspvsHFWBpNZ71U0k54USAiKQpnH/UjW9BAo5hoqRVetv6ksI7MGErv+sU8bsB0vNq8qx2jlbht942yt432g2d3OUG0j/5rrsu91YaN0irjD9x3vY/Vb61cve8Dpbd8mSY/jga6VppQZEnDySsu9+BDCBaBrpR5v6Z8Jov1yFE8BdKp42q5ZDb/pdp9p0/em2evA8FW3KpikH6ljQlveQryHIpxcsCirPc4PhKSd1JB0V+ypayvVgR81UScXIbCNBLsRJzVeEZHZoB2H85/6R3AIwENvAYGRi/QQYmKTIwxW5Kht2UDLsp8xzGHHkOcYHHyMB5DlGB8xyiAlPspmTYTcmwmyIAKFLkLqMCU44MPErgW8as4QyMjpCBIsMcmxSnhvP/SfUI5QUkQ04JAAA=</data>
+<length>628</length>
+<position>1</position>
+<sys_attachment display_value="preview.svg" sys_id="71674dd8c390571014d3b91ed40131ad">71674dd8c390571014d3b91ed40131ad</sys_attachment>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-10-28 19:29:35</sys_created_on>
+<sys_id>75674dd8c390571014d3b91ed40131ad</sys_id>
+</sys_attachment_doc>
+</unload>

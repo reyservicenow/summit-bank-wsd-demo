@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-29 17:50:58">
+<sn_wsd_core_neighborhood action="INSERT_OR_UPDATE">
+<active>true</active>
+<anomaly_recalculation_required>false</anomaly_recalculation_required>
+<name>Wealth Management</name>
+<order>0</order>
+<restricted>false</restricted>
+<short_description>Wealth Management team neighborhood (from TRIRIGA org)</short_description>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:23:45</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>25583cd8c35c171014d3b91ed4013121</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:30:02</sys_updated_on>
+</sn_wsd_core_neighborhood>
+<sn_wsd_core_neighborhood action="INSERT_OR_UPDATE">
+<active>true</active>
+<anomaly_recalculation_required>false</anomaly_recalculation_required>
+<name>Technology</name>
+<order>0</order>
+<restricted>false</restricted>
+<short_description>Technology team neighborhood (from TRIRIGA org)</short_description>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:23:45</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>a9583cd8c35c171014d3b91ed4013198</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:30:02</sys_updated_on>
+</sn_wsd_core_neighborhood>
+<sn_wsd_core_neighborhood action="INSERT_OR_UPDATE">
+<active>true</active>
+<anomaly_recalculation_required>false</anomaly_recalculation_required>
+<name>Retail Banking</name>
+<order>0</order>
+<restricted>false</restricted>
+<short_description>Retail Banking team neighborhood (from TRIRIGA org)</short_description>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:23:44</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>d5587014c31c171014d3b91ed40131d9</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:30:02</sys_updated_on>
+</sn_wsd_core_neighborhood>
+<sn_wsd_core_neighborhood action="INSERT_OR_UPDATE">
+<active>true</active>
+<anomaly_recalculation_required>false</anomaly_recalculation_required>
+<name>Risk &amp; Compliance</name>
+<order>0</order>
+<restricted>false</restricted>
+<short_description>Risk &amp; Compliance team neighborhood (from TRIRIGA org)</short_description>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:23:45</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>e5587cd8c35c171014d3b91ed401310d</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:30:02</sys_updated_on>
+</sn_wsd_core_neighborhood>
+</unload>

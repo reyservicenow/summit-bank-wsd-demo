@@ -1,0 +1,58 @@
+{
+  "result": [
+    {
+      "scope": "sn_wsd_space_map",
+      "name": "Workplace Space Mapping",
+      "active": "true",
+      "version": "1.20.10"
+    },
+    {
+      "scope": "sn_wsd_stackplan",
+      "name": "Workplace Stack Plan",
+      "active": "true",
+      "version": "1.5.12"
+    },
+    {
+      "scope": "sn_map_component",
+      "name": "Indoor Mapping Component",
+      "active": "true",
+      "version": "1.6.1"
+    },
+    {
+      "scope": "sn_wsd_core",
+      "name": "Workplace Core",
+      "active": "true",
+      "version": "2.29.9"
+    },
+    {
+      "scope": "sn_wsd_indoor_map",
+      "name": "Workplace Indoor Mapping",
+      "active": "true",
+      "version": "1.18.12"
+    },
+    {
+      "scope": "sn_wsd_spcmgmt",
+      "name": "Workplace Space Management",
+      "active": "true",
+      "version": "1.20.30"
+    },
+    {
+      "scope": "sn_wsd_rsv",
+      "name": "Workplace Reservation Management",
+      "active": "true",
+      "version": "3.7.0"
+    },
+    {
+      "scope": "sn_wsd_central",
+      "name": "Workplace Central",
+      "active": "true",
+      "version": "1.16.30"
+    },
+    {
+      "scope": "sn_map_core",
+      "name": "Indoor Mapping",
+      "active": "true",
+      "version": "1.18.0"
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-29 17:51:02">
+<sn_wsd_rsv_reservation action="INSERT_OR_UPDATE">
+<active>true</active>
+<additional_info/>
+<additional_message/>
+<all_day>false</all_day>
+<alternative_external_id/>
+<associated_flows/>
+<attendees/>
+<auto_conflict_resolution_state/>
+<block_reference display_value=""/>
+<blocker_for display_value=""/>
+<building display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</building>
+<cancel_notes/>
+<canceling_series>false</canceling_series>
+<check_in_state>awaiting_check_in</check_in_state>
+<check_in_time/>
+<check_out_time/>
+<configuration_item display_value=""/>
+<core_rsv_opened_by display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</core_rsv_opened_by>
+<cost_center display_value=""/>
+<edit_restriction>no_restriction</edit_restriction>
+<end>2026-10-30 04:00:00</end>
+<external_id/>
+<external_occurrence_id/>
+<external_series_master_id/>
+<floor display_value="Summit Tower - Floor 10">08483858c35c171014d3b91ed401316a</floor>
+<is_parent>false</is_parent>
+<is_private>false</is_private>
+<join_info/>
+<last_updated_source>servicenow</last_updated_source>
+<last_updated_sub_source>servicenow_workplace_service_delivery</last_updated_sub_source>
+<location display_value="10-D03">54487858c35c171014d3b91ed401310f</location>
+<meeting_extra_data/>
+<meeting_id/>
+<neighborhood display_value=""/>
+<notification_custom_message/>
+<notification_recipients/>
+<number>WRES0001001</number>
+<number_of_attendees>1</number_of_attendees>
+<privacy_info/>
+<recurring_pattern/>
+<requested_for display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</requested_for>
+<reservable_module display_value="Desks">5db44502dbb650106c731dcd13961937</reservable_module>
+<reservation_path/>
+<reservation_purpose/>
+<reservation_subtype>single</reservation_subtype>
+<reservation_type>single</reservation_type>
+<rsv_span_days/>
+<sensitivity>normal</sensitivity>
+<sg_area display_value=""/>
+<sg_locations/>
+<sg_user_nearby_location display_value=""/>
+<shift display_value=""/>
+<short_description>Desk day - 10-D03</short_description>
+<source>manual</source>
+<source_reservation display_value=""/>
+<start>2026-10-29 20:00:00</start>
+<state>confirmed</state>
+<sub_source>servicenow_workplace_service_delivery</sub_source>
+<subject>Desk day</subject>
+<sync_mailbox/>
+<sync_state>not_required</sync_state>
+<sys_class_name>sn_wsd_rsv_reservation</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:26:13</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>f5e8f8d8c39c171014d3b91ed4013173</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:26:13</sys_updated_on>
+<virtual_meeting/>
+<virtual_meeting_provider display_value=""/>
+<virtual_meeting_synchronization_state>not_required</virtual_meeting_synchronization_state>
+<waitlist_origin>false</waitlist_origin>
+<workplace_location display_value="10-D03">54487858c35c171014d3b91ed401310f</workplace_location>
+<workplace_request display_value=""/>
+<wsd_approval>not requested</wsd_approval>
+<wsd_approval_history/>
+</sn_wsd_rsv_reservation>
+<sn_wsd_rsv_reservation action="INSERT_OR_UPDATE">
+<active>true</active>
+<additional_info/>
+<additional_message/>
+<all_day>false</all_day>
+<alternative_external_id/>
+<associated_flows/>
+<attendees/>
+<auto_conflict_resolution_state/>
+<block_reference display_value=""/>
+<blocker_for display_value=""/>
+<building display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</building>
+<cancel_notes/>
+<canceling_series>false</canceling_series>
+<check_in_state>awaiting_check_in</check_in_state>
+<check_in_time/>
+<check_out_time/>
+<configuration_item display_value=""/>
+<core_rsv_opened_by display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</core_rsv_opened_by>
+<cost_center display_value=""/>
+<edit_restriction>no_restriction</edit_restriction>
+<end>2026-10-30 04:00:00</end>
+<external_id/>
+<external_occurrence_id/>
+<external_series_master_id/>
+<floor display_value="Summit Tower - Floor 11">7c483c58c35c171014d3b91ed40131f9</floor>
+<is_parent>false</is_parent>
+<is_private>false</is_private>
+<join_info/>
+<last_updated_source>servicenow</last_updated_source>
+<last_updated_sub_source>servicenow_workplace_service_delivery</last_updated_sub_source>
+<location display_value="11-D05">49487c58c35c171014d3b91ed4013142</location>
+<meeting_extra_data/>
+<meeting_id/>
+<neighborhood display_value=""/>
+<notification_custom_message/>
+<notification_recipients/>
+<number>WRES0001002</number>
+<number_of_attendees>1</number_of_attendees>
+<privacy_info/>
+<recurring_pattern/>
+<requested_for display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</requested_for>
+<reservable_module display_value="Desks">5db44502dbb650106c731dcd13961937</reservable_module>
+<reservation_path/>
+<reservation_purpose/>
+<reservation_subtype>single</reservation_subtype>
+<reservation_type>single</reservation_type>
+<rsv_span_days/>
+<sensitivity>normal</sensitivity>
+<sg_area display_value=""/>
+<sg_locations/>
+<sg_user_nearby_location display_value=""/>
+<shift display_value=""/>
+<short_description>Desk day - 11-D05</short_description>
+<source>manual</source>
+<source_reservation display_value=""/>
+<start>2026-10-29 20:00:00</start>
+<state>confirmed</state>
+<sub_source>servicenow_workplace_service_delivery</sub_source>
+<subject>Desk day</subject>
+<sync_mailbox/>
+<sync_state>not_required</sync_state>
+<sys_class_name>sn_wsd_rsv_reservation</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:26:15</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>1ae8bcd8c39c171014d3b91ed40131eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:26:15</sys_updated_on>
+<virtual_meeting/>
+<virtual_meeting_provider display_value=""/>
+<virtual_meeting_synchronization_state>not_required</virtual_meeting_synchronization_state>
+<waitlist_origin>false</waitlist_origin>
+<workplace_location display_value="11-D05">49487c58c35c171014d3b91ed4013142</workplace_location>
+<workplace_request display_value=""/>
+<wsd_approval>not requested</wsd_approval>
+<wsd_approval_history/>
+</sn_wsd_rsv_reservation>
+<sn_wsd_rsv_reservation action="INSERT_OR_UPDATE">
+<active>true</active>
+<additional_info/>
+<additional_message/>
+<all_day>false</all_day>
+<alternative_external_id/>
+<associated_flows/>
+<attendees/>
+<auto_conflict_resolution_state/>
+<block_reference display_value=""/>
+<blocker_for display_value=""/>
+<building display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</building>
+<cancel_notes/>
+<canceling_series>false</canceling_series>
+<check_in_state>awaiting_check_in</check_in_state>
+<check_in_time/>
+<check_out_time/>
+<configuration_item display_value=""/>
+<core_rsv_opened_by display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</core_rsv_opened_by>
+<cost_center display_value=""/>
+<edit_restriction>no_restriction</edit_restriction>
+<end>2026-10-30 03:00:00</end>
+<external_id/>
+<external_occurrence_id/>
+<external_series_master_id/>
+<floor display_value="Summit Tower - Floor 10">08483858c35c171014d3b91ed401316a</floor>
+<is_parent>false</is_parent>
+<is_private>false</is_private>
+<join_info/>
+<last_updated_source>servicenow</last_updated_source>
+<last_updated_sub_source>servicenow_workplace_service_delivery</last_updated_sub_source>
+<location display_value="10-D14">2048b858c35c171014d3b91ed40131f6</location>
+<meeting_extra_data/>
+<meeting_id/>
+<neighborhood display_value=""/>
+<notification_custom_message/>
+<notification_recipients/>
+<number>WRES0001003</number>
+<number_of_attendees>1</number_of_attendees>
+<privacy_info/>
+<recurring_pattern/>
+<requested_for display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</requested_for>
+<reservable_module display_value="Desks">5db44502dbb650106c731dcd13961937</reservable_module>
+<reservation_path/>
+<reservation_purpose/>
+<reservation_subtype>single</reservation_subtype>
+<reservation_type>single</reservation_type>
+<rsv_span_days/>
+<sensitivity>normal</sensitivity>
+<sg_area display_value=""/>
+<sg_locations/>
+<sg_user_nearby_location display_value=""/>
+<shift display_value=""/>
+<short_description>Desk day - 10-D14</short_description>
+<source>manual</source>
+<source_reservation display_value=""/>
+<start>2026-10-29 21:00:00</start>
+<state>confirmed</state>
+<sub_source>servicenow_workplace_service_delivery</sub_source>
+<subject>Desk day</subject>
+<sync_mailbox/>
+<sync_state>not_required</sync_state>
+<sys_class_name>sn_wsd_rsv_reservation</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:26:15</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>92e8bcd8c39c171014d3b91ed40131f0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:26:15</sys_updated_on>
+<virtual_meeting/>
+<virtual_meeting_provider display_value=""/>
+<virtual_meeting_synchronization_state>not_required</virtual_meeting_synchronization_state>
+<waitlist_origin>false</waitlist_origin>
+<workplace_location display_value="10-D14">2048b858c35c171014d3b91ed40131f6</workplace_location>
+<workplace_request display_value=""/>
+<wsd_approval>not requested</wsd_approval>
+<wsd_approval_history/>
+</sn_wsd_rsv_reservation>
+<sn_wsd_rsv_reservation action="INSERT_OR_UPDATE">
+<active>true</active>
+<additional_info/>
+<additional_message/>
+<all_day>false</all_day>
+<alternative_external_id/>
+<associated_flows/>
+<attendees/>
+<auto_conflict_resolution_state/>
+<block_reference display_value=""/>
+<blocker_for display_value=""/>
+<building display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</building>
+<cancel_notes/>
+<canceling_series>false</canceling_series>
+<check_in_state>awaiting_check_in</check_in_state>
+<check_in_time/>
+<check_out_time/>
+<configuration_item display_value=""/>
+<core_rsv_opened_by display_value="Don Goodliffe">9ee1b13dc6112271007f9d0efdb69cd0</core_rsv_opened_by>
+<cost_center display_value=""/>
+<edit_restriction>no_restriction</edit_restriction>
+<end>2026-10-31 04:00:00</end>
+<external_id/>
+<external_occurrence_id/>
+<external_series_master_id/>
+<floor display_value="Summit Tower - Floor 10">08483858c35c171014d3b91ed401316a</floor>
+<is_parent>false</is_parent>
+<is_private>false</is_private>
+<join_info/>
+<last_updated_source>servicenow</last_updated_source>
+<last_updated_sub_source>servicenow_workplace_service_delivery</last_updated_sub_source>
+<location display_value="10-D15">e448f858c35c171014d3b91ed401317a</location>
+<meeting_extra_data/>
+<meeting_id/>
+<neighborhood display_value=""/>
+<notification_custom_message/>
+<notification_recipients/>
+<number>WRES0001004</number>
+<number_of_attendees>1</number_of_attendees>
+<privacy_info/>
+<recurring_pattern/>
+<requested_for display_value="Don Goodliffe">9ee1b13dc6112271007f9d0efdb69cd0</requested_for>
+<reservable_module display_value="Desks">5db44502dbb650106c731dcd13961937</reservable_module>
+<reservation_path/>
+<reservation_purpose/>
+<reservation_subtype>single</reservation_subtype>
+<reservation_type>single</reservation_type>
+<rsv_span_days/>
+<sensitivity>normal</sensitivity>
+<sg_area display_value=""/>
+<sg_locations/>
+<sg_user_nearby_location display_value=""/>
+<shift display_value=""/>
+<short_description>Desk day - 10-D15</short_description>
+<source>manual</source>
+<source_reservation display_value=""/>
+<start>2026-10-30 20:00:00</start>
+<state>confirmed</state>
+<sub_source>servicenow_workplace_service_delivery</sub_source>
+<subject>Desk day</subject>
+<sync_mailbox/>
+<sync_state>not_required</sync_state>
+<sys_class_name>sn_wsd_rsv_reservation</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:26:15</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>5ae8fcd8c39c171014d3b91ed4013164</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:26:15</sys_updated_on>
+<virtual_meeting/>
+<virtual_meeting_provider display_value=""/>
+<virtual_meeting_synchronization_state>not_required</virtual_meeting_synchronization_state>
+<waitlist_origin>false</waitlist_origin>
+<workplace_location display_value="10-D15">e448f858c35c171014d3b91ed401317a</workplace_location>
+<workplace_request display_value=""/>
+<wsd_approval>not requested</wsd_approval>
+<wsd_approval_history/>
+</sn_wsd_rsv_reservation>
+<sn_wsd_rsv_reservation action="INSERT_OR_UPDATE">
+<active>true</active>
+<additional_info/>
+<additional_message/>
+<all_day>false</all_day>
+<alternative_external_id/>
+<associated_flows/>
+<attendees/>
+<auto_conflict_resolution_state/>
+<block_reference display_value=""/>
+<blocker_for display_value=""/>
+<building display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</building>
+<cancel_notes/>
+<canceling_series>false</canceling_series>
+<check_in_state>awaiting_check_in</check_in_state>
+<check_in_time/>
+<check_out_time/>
+<configuration_item display_value=""/>
+<core_rsv_opened_by display_value="Abraham Lincoln">a8f98bb0eb32010045e1a5115206fe3a</core_rsv_opened_by>
+<cost_center display_value=""/>
+<edit_restriction>no_restriction</edit_restriction>
+<end>2026-10-31 04:00:00</end>
+<external_id/>
+<external_occurrence_id/>
+<external_series_master_id/>
+<floor display_value="Summit Tower - Floor 11">7c483c58c35c171014d3b91ed40131f9</floor>
+<is_parent>false</is_parent>
+<is_private>false</is_private>
+<join_info/>
+<last_updated_source>servicenow</last_updated_source>
+<last_updated_sub_source>servicenow_workplace_service_delivery</last_updated_sub_source>
+<location display_value="11-D09">c9487c58c35c171014d3b91ed401317b</location>
+<meeting_extra_data/>
+<meeting_id/>
+<neighborhood display_value=""/>
+<notification_custom_message/>
+<notification_recipients/>
+<number>WRES0001005</number>
+<number_of_attendees>1</number_of_attendees>
+<privacy_info/>
+<recurring_pattern/>
+<requested_for display_value="Abraham Lincoln">a8f98bb0eb32010045e1a5115206fe3a</requested_for>
+<reservable_module display_value="Desks">5db44502dbb650106c731dcd13961937</reservable_module>
+<reservation_path/>
+<reservation_purpose/>
+<reservation_subtype>single</reservation_subtype>
+<reservation_type>single</reservation_type>
+<rsv_span_days/>
+<sensitivity>normal</sensitivity>
+<sg_area display_value=""/>
+<sg_locations/>
+<sg_user_nearby_location display_value=""/>
+<shift display_value=""/>
+<short_description>Desk day - 11-D09</short_description>
+<source>manual</source>
+<source_reservation display_value=""/>
+<start>2026-10-30 20:00:00</start>
+<state>confirmed</state>
+<sub_source>servicenow_workplace_service_delivery</sub_source>
+<subject>Desk day</subject>
+<sync_mailbox/>
+<sync_state>not_required</sync_state>
+<sys_class_name>sn_wsd_rsv_reservation</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:26:16</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>52e8fcd8c39c171014d3b91ed4013169</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 18:26:16</sys_updated_on>
+<virtual_meeting/>
+<virtual_meeting_provider display_value=""/>
+<virtual_meeting_synchronization_state>not_required</virtual_meeting_synchronization_state>
+<waitlist_origin>false</waitlist_origin>
+<workplace_location display_value="11-D09">c9487c58c35c171014d3b91ed401317b</workplace_location>
+<workplace_request display_value=""/>
+<wsd_approval>not requested</wsd_approval>
+<wsd_approval_history/>
+</sn_wsd_rsv_reservation>
+<sn_wsd_rsv_reservation action="INSERT_OR_UPDATE">
+<active>true</active>
+<additional_info/>
+<additional_message/>
+<all_day>false</all_day>
+<alternative_external_id/>
+<associated_flows/>
+<attendees/>
+<auto_conflict_resolution_state/>
+<block_reference display_value=""/>
+<blocker_for display_value=""/>
+<building display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</building>
+<cancel_notes/>
+<canceling_series>false</canceling_series>
+<check_in_state>awaiting_check_in</check_in_state>
+<check_in_time/>
+<check_out_time/>
+<configuration_item display_value=""/>
+<core_rsv_opened_by display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</core_rsv_opened_by>
+<cost_center display_value=""/>
+<edit_restriction>no_restriction</edit_restriction>
+<end>2026-10-29 22:00:00</end>
+<external_id/>
+<external_occurrence_id/>
+<external_series_master_id/>
+<floor display_value="Summit Tower - Floor 10">08483858c35c171014d3b91ed401316a</floor>
+<is_parent>false</is_parent>
+<is_private>false</is_private>
+<join_info/>
+<last_updated_source>servicenow</last_updated_source>
+<last_updated_sub_source>servicenow_workplace_service_delivery</last_updated_sub_source>
+<location display_value="10-MR1 Blue Ridge">2c48f858c35c171014d3b91ed40131c8</location>
+<meeting_extra_data/>
+<meeting_id/>
+<neighborhood display_value=""/>
+<notification_custom_message/>
+<notification_recipients/>
+<number>WRES0001006</number>
+<number_of_attendees>1</number_of_attendees>
+<privacy_info/>
+<recurring_pattern/>
+<requested_for display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</requested_for>
+<reservable_module display_value="meeting_rooms">f05b0514c3d0571014d3b91ed401314f</reservable_module>
+<reservation_path/>
+<reservation_purpose/>
+<reservation_subtype>single</reservation_subtype>
+<reservation_type>single</reservation_type>
+<rsv_span_days/>
+<sensitivity>normal</sensitivity>
+<sg_area display_value=""/>
+<sg_locations/>
+<sg_user_nearby_location display_value=""/>
+<shift display_value=""/>
+<short_description>TRIRIGA to WSD migration kickoff - 10-MR1 Blue Ridge</short_description>
+<source>manual</source>
+<source_reservation display_value=""/>
+<start>2026-10-29 21:00:00</start>
+<state>confirmed</state>
+<sub_source>servicenow_workplace_service_delivery</sub_source>
+<subject>TRIRIGA to WSD migration kickoff</subject>
+<sync_mailbox/>
+<sync_state>not_required</sync_state>
+<sys_class_name>sn_wsd_rsv_reservation</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:26:16</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>5ae8fcd8c39c171014d3b91ed401316d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:46:43</sys_updated_on>
+<virtual_meeting/>
+<virtual_meeting_provider display_value=""/>
+<virtual_meeting_synchronization_state>not_required</virtual_meeting_synchronization_state>
+<waitlist_origin>false</waitlist_origin>
+<workplace_location display_value="10-MR1 Blue Ridge">2c48f858c35c171014d3b91ed40131c8</workplace_location>
+<workplace_request display_value=""/>
+<wsd_approval>not requested</wsd_approval>
+<wsd_approval_history/>
+</sn_wsd_rsv_reservation>
+<sn_wsd_rsv_reservation action="INSERT_OR_UPDATE">
+<active>true</active>
+<additional_info/>
+<additional_message/>
+<all_day>false</all_day>
+<alternative_external_id/>
+<associated_flows/>
+<attendees/>
+<auto_conflict_resolution_state/>
+<block_reference display_value=""/>
+<blocker_for display_value=""/>
+<building display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</building>
+<cancel_notes/>
+<canceling_series>false</canceling_series>
+<check_in_state>awaiting_check_in</check_in_state>
+<check_in_time/>
+<check_out_time/>
+<configuration_item display_value=""/>
+<core_rsv_opened_by display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</core_rsv_opened_by>
+<cost_center display_value=""/>
+<edit_restriction>no_restriction</edit_restriction>
+<end>2026-10-30 01:00:00</end>
+<external_id/>
+<external_occurrence_id/>
+<external_series_master_id/>
+<floor display_value="Summit Tower - Floor 10">08483858c35c171014d3b91ed401316a</floor>
+<is_parent>false</is_parent>
+<is_private>false</is_private>
+<join_info/>
+<last_updated_source>servicenow</last_updated_source>
+<last_updated_sub_source>servicenow_workplace_service_delivery</last_updated_sub_source>
+<location display_value="10-MR2 Piedmont">20483c58c35c171014d3b91ed401310f</location>
+<meeting_extra_data/>
+<meeting_id/>
+<neighborhood display_value=""/>
+<notification_custom_message/>
+<notification_recipients/>
+<number>WRES0001007</number>
+<number_of_attendees>1</number_of_attendees>
+<privacy_info/>
+<recurring_pattern/>
+<requested_for display_value="Beth Anglin">46d44a23a9fe19810012d100cca80666</requested_for>
+<reservable_module display_value="meeting_rooms">f05b0514c3d0571014d3b91ed401314f</reservable_module>
+<reservation_path/>
+<reservation_purpose/>
+<reservation_subtype>single</reservation_subtype>
+<reservation_type>single</reservation_type>
+<rsv_span_days/>
+<sensitivity>normal</sensitivity>
+<sg_area display_value=""/>
+<sg_locations/>
+<sg_user_nearby_location display_value=""/>
+<shift display_value=""/>
+<short_description>Space planning review - 10-MR2 Piedmont</short_description>
+<source>manual</source>
+<source_reservation display_value=""/>
+<start>2026-10-30 00:00:00</start>
+<state>confirmed</state>
+<sub_source>servicenow_workplace_service_delivery</sub_source>
+<subject>Space planning review</subject>
+<sync_mailbox/>
+<sync_state>not_required</sync_state>
+<sys_class_name>sn_wsd_rsv_reservation</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:26:16</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>1ae8fcd8c39c171014d3b91ed4013197</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:46:43</sys_updated_on>
+<virtual_meeting/>
+<virtual_meeting_provider display_value=""/>
+<virtual_meeting_synchronization_state>not_required</virtual_meeting_synchronization_state>
+<waitlist_origin>false</waitlist_origin>
+<workplace_location display_value="10-MR2 Piedmont">20483c58c35c171014d3b91ed401310f</workplace_location>
+<workplace_request display_value=""/>
+<wsd_approval>not requested</wsd_approval>
+<wsd_approval_history/>
+</sn_wsd_rsv_reservation>
+<sn_wsd_rsv_reservation action="INSERT_OR_UPDATE">
+<active>true</active>
+<additional_info/>
+<additional_message/>
+<all_day>false</all_day>
+<alternative_external_id/>
+<associated_flows/>
+<attendees/>
+<auto_conflict_resolution_state/>
+<block_reference display_value=""/>
+<blocker_for display_value=""/>
+<building display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</building>
+<cancel_notes/>
+<canceling_series>false</canceling_series>
+<check_in_state>awaiting_check_in</check_in_state>
+<check_in_time/>
+<check_out_time/>
+<configuration_item display_value=""/>
+<core_rsv_opened_by display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</core_rsv_opened_by>
+<cost_center display_value=""/>
+<edit_restriction>no_restriction</edit_restriction>
+<end>2026-10-30 23:00:00</end>
+<external_id/>
+<external_occurrence_id/>
+<external_series_master_id/>
+<floor display_value="Summit Tower - Floor 11">7c483c58c35c171014d3b91ed40131f9</floor>
+<is_parent>false</is_parent>
+<is_private>false</is_private>
+<join_info/>
+<last_updated_source>servicenow</last_updated_source>
+<last_updated_sub_source>servicenow_workplace_service_delivery</last_updated_sub_source>
+<location display_value="11-MR1 Blue Ridge">5d48bc58c35c171014d3b91ed40131cd</location>
+<meeting_extra_data/>
+<meeting_id/>
+<neighborhood display_value=""/>
+<notification_custom_message/>
+<notification_recipients/>
+<number>WRES0001008</number>
+<number_of_attendees>1</number_of_attendees>
+<privacy_info/>
+<recurring_pattern/>
+<requested_for display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</requested_for>
+<reservable_module display_value="meeting_rooms">f05b0514c3d0571014d3b91ed401314f</reservable_module>
+<reservation_path/>
+<reservation_purpose/>
+<reservation_subtype>single</reservation_subtype>
+<reservation_type>single</reservation_type>
+<rsv_span_days/>
+<sensitivity>normal</sensitivity>
+<sg_area display_value=""/>
+<sg_locations/>
+<sg_user_nearby_location display_value=""/>
+<shift display_value=""/>
+<short_description>Restack Floor 11 working session - 11-MR1 Blue Ridge</short_description>
+<source>manual</source>
+<source_reservation display_value=""/>
+<start>2026-10-30 22:00:00</start>
+<state>confirmed</state>
+<sub_source>servicenow_workplace_service_delivery</sub_source>
+<subject>Restack Floor 11 working session</subject>
+<sync_mailbox/>
+<sync_state>not_required</sync_state>
+<sys_class_name>sn_wsd_rsv_reservation</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:26:16</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>12e8fcd8c39c171014d3b91ed401319c</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:46:43</sys_updated_on>
+<virtual_meeting/>
+<virtual_meeting_provider display_value=""/>
+<virtual_meeting_synchronization_state>not_required</virtual_meeting_synchronization_state>
+<waitlist_origin>false</waitlist_origin>
+<workplace_location display_value="11-MR1 Blue Ridge">5d48bc58c35c171014d3b91ed40131cd</workplace_location>
+<workplace_request display_value=""/>
+<wsd_approval>not requested</wsd_approval>
+<wsd_approval_history/>
+</sn_wsd_rsv_reservation>
+<sn_wsd_rsv_reservation action="INSERT_OR_UPDATE">
+<active>true</active>
+<additional_info/>
+<additional_message/>
+<all_day>false</all_day>
+<alternative_external_id/>
+<associated_flows/>
+<attendees/>
+<auto_conflict_resolution_state/>
+<block_reference display_value=""/>
+<blocker_for display_value=""/>
+<building display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</building>
+<cancel_notes/>
+<canceling_series>false</canceling_series>
+<check_in_state>awaiting_check_in</check_in_state>
+<check_in_time/>
+<check_out_time/>
+<configuration_item display_value=""/>
+<core_rsv_opened_by display_value="Charlie Whitherspoon">46b87022a9fe198101a78787e40d7547</core_rsv_opened_by>
+<cost_center display_value=""/>
+<edit_restriction>no_restriction</edit_restriction>
+<end>2026-11-03 00:00:00</end>
+<external_id/>
+<external_occurrence_id/>
+<external_series_master_id/>
+<floor display_value="Summit Tower - Floor 10">08483858c35c171014d3b91ed401316a</floor>
+<is_parent>false</is_parent>
+<is_private>false</is_private>
+<join_info/>
+<last_updated_source>servicenow</last_updated_source>
+<last_updated_sub_source>servicenow_workplace_service_delivery</last_updated_sub_source>
+<location display_value="10-FOCUS1">6c483c58c35c171014d3b91ed4013148</location>
+<meeting_extra_data/>
+<meeting_id/>
+<neighborhood display_value=""/>
+<notification_custom_message/>
+<notification_recipients/>
+<number>WRES0001009</number>
+<number_of_attendees>1</number_of_attendees>
+<privacy_info/>
+<recurring_pattern/>
+<requested_for display_value="Charlie Whitherspoon">46b87022a9fe198101a78787e40d7547</requested_for>
+<reservable_module display_value="meeting_rooms">f05b0514c3d0571014d3b91ed401314f</reservable_module>
+<reservation_path/>
+<reservation_purpose/>
+<reservation_subtype>single</reservation_subtype>
+<reservation_type>single</reservation_type>
+<rsv_span_days/>
+<sensitivity>normal</sensitivity>
+<sg_area display_value=""/>
+<sg_locations/>
+<sg_user_nearby_location display_value=""/>
+<shift display_value=""/>
+<short_description>Focus time - 10-FOCUS1</short_description>
+<source>manual</source>
+<source_reservation display_value=""/>
+<start>2026-11-02 22:00:00</start>
+<state>confirmed</state>
+<sub_source>servicenow_workplace_service_delivery</sub_source>
+<subject>Focus time</subject>
+<sync_mailbox/>
+<sync_state>not_required</sync_state>
+<sys_class_name>sn_wsd_rsv_reservation</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:26:16</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>1ae8fcd8c39c171014d3b91ed40131a0</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:46:43</sys_updated_on>
+<virtual_meeting/>
+<virtual_meeting_provider display_value=""/>
+<virtual_meeting_synchronization_state>not_required</virtual_meeting_synchronization_state>
+<waitlist_origin>false</waitlist_origin>
+<workplace_location display_value="10-FOCUS1">6c483c58c35c171014d3b91ed4013148</workplace_location>
+<workplace_request display_value=""/>
+<wsd_approval>not requested</wsd_approval>
+<wsd_approval_history/>
+</sn_wsd_rsv_reservation>
+</unload>

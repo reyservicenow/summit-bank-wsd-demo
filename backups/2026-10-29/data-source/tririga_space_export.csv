@@ -1,0 +1,51 @@
+triPropertyName,triBuildingName,triFloorName,triSpaceID,triSpaceClass,triAreaNU,triCapacityNU,triReservableBL,triOrgName,triPrimaryOccupant,triStatus
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D01,Desk,36,1,TRUE,Retail Banking,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D02,Desk,36,1,TRUE,Retail Banking,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D03,Desk,36,1,TRUE,Retail Banking,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D04,Desk,36,1,TRUE,Retail Banking,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D05,Desk,36,1,TRUE,Retail Banking,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D06,Desk,36,1,TRUE,Retail Banking,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D07,Desk,36,1,TRUE,Wealth Management,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D08,Desk,36,1,TRUE,Wealth Management,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D09,Desk,36,1,TRUE,Wealth Management,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D10,Desk,36,1,TRUE,Wealth Management,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D11,Desk,36,1,TRUE,Wealth Management,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D12,Desk,36,1,TRUE,Wealth Management,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D13,Desk,36,1,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D14,Desk,36,1,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D15,Desk,36,1,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-D16,Desk,36,1,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-MR1 Blue Ridge,Meeting room,216,8,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-MR2 Piedmont,Meeting room,168,6,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-FOCUS1,Focus room,96,1,TRUE,Risk & Compliance,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-OFF1,Office,120,1,FALSE,Risk & Compliance,bud.richman,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-OFF2,Office,120,1,FALSE,Risk & Compliance,fred.luddy,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-OFF3,Office,120,1,FALSE,Risk & Compliance,charlie.whitherspoon,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 10,10-BRK,Break room,216,12,FALSE,Risk & Compliance,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D01,Desk,36,1,TRUE,Risk & Compliance,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D02,Desk,36,1,TRUE,Retail Banking,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D03,Desk,36,1,TRUE,Retail Banking,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D04,Desk,36,1,TRUE,Retail Banking,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D05,Desk,36,1,TRUE,Retail Banking,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D06,Desk,36,1,TRUE,Retail Banking,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D07,Desk,36,1,TRUE,Retail Banking,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D08,Desk,36,1,TRUE,Wealth Management,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D09,Desk,36,1,TRUE,Wealth Management,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D10,Desk,36,1,TRUE,Wealth Management,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D11,Desk,36,1,TRUE,Wealth Management,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D12,Desk,36,1,TRUE,Wealth Management,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D13,Desk,36,1,TRUE,Wealth Management,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D14,Desk,36,1,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D15,Desk,36,1,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-D16,Desk,36,1,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-MR1 Blue Ridge,Meeting room,216,8,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-MR2 Piedmont,Meeting room,168,6,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-FOCUS1,Focus room,96,1,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-OFF1,Office,120,1,FALSE,Risk & Compliance,beth.anglin,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-OFF2,Office,120,1,FALSE,Risk & Compliance,bud.richman,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-OFF3,Office,120,1,FALSE,Risk & Compliance,fred.luddy,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 11,11-BRK,Break room,216,12,FALSE,Risk & Compliance,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 12,12-D01,Desk,100,1,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 12,12-D02,Desk,100,1,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 12,12-D03,Desk,100,1,TRUE,Technology,,Active
+Summit Bank Charlotte Campus,Summit Tower,Floor 12,12-D04,Desk,100,1,TRUE,Technology,,Active

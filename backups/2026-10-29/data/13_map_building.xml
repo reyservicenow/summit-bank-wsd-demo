@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-29 17:51:03">
+<sn_map_core_building action="INSERT_OR_UPDATE">
+<active>true</active>
+<address/>
+<auto_compute_geometry>false</auto_compute_geometry>
+<campus display_value="Summit Bank Charlotte Campus">18f44154c390571014d3b91ed4013183</campus>
+<cmn_location display_value="Summit Tower">c4483858c35c171014d3b91ed4013164</cmn_location>
+<description/>
+<entering_zoom>20</entering_zoom>
+<geometry>{"type":"Polygon","coordinates":[[[-80.8433,35.227],[-80.84296499999999,35.227],[-80.84296499999999,35.227150699999996],[-80.8433,35.227150699999996],[-80.8433,35.227]]]}</geometry>
+<marker_latitude>35.2270754</marker_latitude>
+<marker_longitude>-80.8431325</marker_longitude>
+<name>Summit Tower</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 19:18:49</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>9cf44154c390571014d3b91ed4013184</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:31:48</sys_updated_on>
+<title>Summit Tower</title>
+</sn_map_core_building>
+</unload>

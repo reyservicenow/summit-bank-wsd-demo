@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-29 17:50:56">
+<sn_wsd_core_building action="INSERT_OR_UPDATE">
+<active>true</active>
+<actual_end_date/>
+<actual_start_date/>
+<boma_type display_value="None">8850cffd77201110f47ba8aecd5a99c0</boma_type>
+<boma_type_overriden>false</boma_type_overriden>
+<campus display_value="Summit Bank Charlotte Campus">dde7f810c35c171014d3b91ed4013184</campus>
+<capacity>1</capacity>
+<capacity_ratio>1</capacity_ratio>
+<cc_dept_config>false</cc_dept_config>
+<city>Charlotte</city>
+<cmn_location_source/>
+<cmn_location_type>building/structure</cmn_location_type>
+<company display_value=""/>
+<contact display_value=""/>
+<coordinates_retrieved_on/>
+<country>USA</country>
+<delete_on/>
+<department display_value=""/>
+<description/>
+<duplicate>false</duplicate>
+<enable_location_privacy/>
+<external_id>9cf44154c390571014d3b91ed4013184</external_id>
+<fax_phone/>
+<full_name>Charlotte, NC/Summit Bank Charlotte Campus/Summit Tower</full_name>
+<gross_size_overridden>false</gross_size_overridden>
+<gross_size_sq_feet>3664</gross_size_sq_feet>
+<gross_size_sq_meter>340.396592</gross_size_sq_meter>
+<image/>
+<import_state/>
+<indoor_map_building display_value=""/>
+<is_reservable>true</is_reservable>
+<last_imported/>
+<lat_long_error/>
+<latitude/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<longitude/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<measurement_unit>sq_feet</measurement_unit>
+<name>Summit Tower</name>
+<number>BLDG0001052</number>
+<order>0</order>
+<override_reservation_privacy/>
+<parent display_value="Summit Bank Charlotte Campus">dde7f810c35c171014d3b91ed4013184</parent>
+<phone/>
+<phone_territory display_value=""/>
+<planned_end_date/>
+<planned_start_date/>
+<primary_location display_value=""/>
+<region display_value=""/>
+<requires_check_in>false</requires_check_in>
+<site display_value="Charlotte, NC">d1e7f810c35c171014d3b91ed401312f</site>
+<state>NC</state>
+<stock_room>false</stock_room>
+<street/>
+<sys_class_name>sn_wsd_core_building</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-28 18:23:23</sys_created_on>
+<sys_id>c4483858c35c171014d3b91ed4013164</sys_id>
+<sys_mod_count>102</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-28 19:24:38</sys_updated_on>
+<time_zone>US/Eastern</time_zone>
+<title>Summit Tower</title>
+<total_capacity/>
+<usable_size_overridden>false</usable_size_overridden>
+<usable_size_sq_feet>3664</usable_size_sq_feet>
+<usable_size_sq_meter>340.396592</usable_size_sq_meter>
+<wsd_banner_image/>
+<wsd_email/>
+<wsd_push_down>no</wsd_push_down>
+<wsd_push_down_state/>
+<wsd_source>TRIRIGA</wsd_source>
+<wsd_status>active</wsd_status>
+<zip/>
+</sn_wsd_core_building>
+</unload>

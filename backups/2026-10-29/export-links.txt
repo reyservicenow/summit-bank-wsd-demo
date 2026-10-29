@@ -1,0 +1,6 @@
+EXPORT|Default|Global|in progress|6|https://dev445147.service-now.com/export_update_set.do?sysparm_sys_id=595ab1e0c358d71014d3b91ed401314e&sysparm_delete_when_done=true
+EXPORT|Default|Truist Migration Plan|in progress|1|https://dev445147.service-now.com/export_update_set.do?sysparm_sys_id=065ab5a4c358d71014d3b91ed4013133&sysparm_delete_when_done=true
+EXPORT|Default|Vehicle Tracking|in progress|1|https://dev445147.service-now.com/export_update_set.do?sysparm_sys_id=065ab5a4c358d71014d3b91ed4013134&sysparm_delete_when_done=true
+EXPORT|Default|Summit Bank WSD Demo|in progress|1|https://dev445147.service-now.com/export_update_set.do?sysparm_sys_id=825ab5a4c358d71014d3b91ed4013164&sysparm_delete_when_done=true
+EXPORT|Summit Bank WSD Demo|Summit Bank WSD Demo|complete|40|https://dev445147.service-now.com/export_update_set.do?sysparm_sys_id=825ab5a4c358d71014d3b91ed4013165&sysparm_delete_when_done=true
+EXPORT|Summit Bank WSD Demo - TRIRIGA migration|Summit Bank WSD Demo|in progress|26|https://dev445147.service-now.com/export_update_set.do?sysparm_sys_id=565ab5a4c358d71014d3b91ed4013172&sysparm_delete_when_done=true
