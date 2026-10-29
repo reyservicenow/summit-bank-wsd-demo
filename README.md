@@ -39,3 +39,7 @@ See [docs/RESTORE.md](docs/RESTORE.md). Short version: install the same WSD stor
 - Keep this repository **private**: the XML contains user names and instance sys_ids.
 - Passwords are prompted for and never saved. `.gitignore` blocks common credential files.
 - Optional ongoing backup: link the app to this repo with ServiceNow Studio source control (see [docs/BEST_PRACTICES.md](docs/BEST_PRACTICES.md)).
+
+## Known gotcha: update set downloads
+
+`export_update_set.do` needs a logged-in browser session token (`sysparm_ck`). If the script downloads 0-byte update set files or gets HTTP 401, open each `EXPORT|...` link in your browser while logged in instead, and save the XML into `backups/<date>/update-sets/`. The data (`_list.do?UNL`) downloads work with basic auth.

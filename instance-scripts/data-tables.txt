@@ -10,7 +10,7 @@
 06_department|cmn_department|nameINRetail Banking,Wealth Management,Technology,Risk & Compliance
 07_neighborhood|sn_wsd_core_neighborhood|nameINRetail Banking,Wealth Management,Technology,Risk & Compliance
 08_neighborhood_space|sn_wsd_core_neighborhood_m2m_space|space.wsd_source=TRIRIGA
-09_workplace_profile|sn_wsd_core_workplace_profile|workplace_location.wsd_source=TRIRIGA
+09_workplace_profile|sn_wsd_core_workplace_profile|workplace_location.ref_sn_wsd_core_space.wsd_source=TRIRIGA
 10_reservation|sn_wsd_rsv_reservation|workplace_location.wsd_source=TRIRIGA
 11_scenario|sn_wsd_spcmgmt_scenario_plan|nameSTARTSWITHSummit Tower restack
 12_map_campus|sn_map_core_campus|name=Summit Bank Charlotte Campus
